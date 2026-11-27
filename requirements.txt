@@ -1,0 +1,17 @@
+pillow>=10
+imagehash>=4.3
+opencv-python-headless>=4.8
+scikit-image>=0.21
+numpy
+pandas
+tabulate
+matplotlib
+requests
+cairosvg
+# optional, only for M10 (CLIP) and M11 (SSCD); install CPU wheels:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+#   pip install open_clip_torch
+torch
+torchvision
+open_clip_torch
+faiss-cpu  # scalability experiment (src/scalability.py)

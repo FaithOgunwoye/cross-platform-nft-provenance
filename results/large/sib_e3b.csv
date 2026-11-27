@@ -1,0 +1,537 @@
+collection_aware,case,copy_token,n_matches,orig_in_matches,earliest_is_original,earliest_in_orig_collection,fired_model
+False,rrbayc,67,1,True,True,True,M4 pHash
+False,rrbayc,197,1,True,True,True,M4 pHash
+False,rrbayc,369,1,True,True,True,M4 pHash
+False,rrbayc,614,1,True,True,True,M4 pHash
+False,rrbayc,642,1,True,True,True,M4 pHash
+False,rrbayc,791,1,True,True,True,M4 pHash
+False,rrbayc,812,1,True,True,True,M4 pHash
+False,rrbayc,965,1,True,True,True,M4 pHash
+False,rrbayc,968,1,True,True,True,M4 pHash
+False,rrbayc,976,1,True,True,True,M4 pHash
+False,rrbayc,994,1,True,True,True,M4 pHash
+False,rrbayc,1028,1,True,True,True,M4 pHash
+False,rrbayc,1064,1,True,True,True,M4 pHash
+False,rrbayc,1126,1,True,True,True,M4 pHash
+False,rrbayc,1144,1,True,True,True,M4 pHash
+False,rrbayc,1186,1,True,True,True,M4 pHash
+False,rrbayc,1199,1,True,True,True,M4 pHash
+False,rrbayc,1271,1,True,True,True,M4 pHash
+False,rrbayc,1320,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1359,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1486,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1542,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1596,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1688,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1918,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1934,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2243,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2363,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2386,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2471,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2472,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2478,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2490,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2702,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2725,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2753,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2887,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2945,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2987,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3374,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3575,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3622,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3822,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3999,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4070,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4304,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4422,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4662,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4717,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4744,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4919,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5140,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5305,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5572,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5604,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5627,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5685,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5737,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5823,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5878,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5924,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5991,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6101,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6233,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6320,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6405,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6468,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6499,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6519,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6580,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6804,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6850,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6851,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6867,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6909,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7005,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7104,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7301,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7424,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7564,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7628,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7767,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8111,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8133,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8134,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8779,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8858,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8974,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9014,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9120,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9246,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9358,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9388,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9411,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9469,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9501,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9528,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4552,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5054,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6955,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8387,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8711,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9002,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,950,1,True,True,True,M4 pHash
+False,rrbayc,1013,1,True,True,True,M4 pHash
+False,rrbayc,1341,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1408,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1533,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,1929,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2028,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,2181,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3078,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3517,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3657,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3780,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3800,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,3943,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4056,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4561,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4709,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,4911,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,5072,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,6864,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7053,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7353,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7359,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,7945,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8088,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8137,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8313,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,8604,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9028,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9143,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9179,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9264,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9353,1,True,True,True,M1 Raw SHA-256
+False,rrbayc,9455,1,True,True,True,M1 Raw SHA-256
+False,phunks,31,2,True,True,True,M7 Transf. pHash
+False,phunks,443,1,False,False,False,M4 pHash
+False,phunks,884,1,False,False,False,M4 pHash
+False,phunks,1103,1,True,True,True,M7 Transf. pHash
+False,phunks,1152,1,True,True,True,M7 Transf. pHash
+False,phunks,1662,1,False,False,False,M4 pHash
+False,phunks,1801,1,True,True,True,M7 Transf. pHash
+False,phunks,1889,1,False,False,False,M4 pHash
+False,phunks,2012,1,True,True,True,M7 Transf. pHash
+False,phunks,2056,1,True,True,True,M7 Transf. pHash
+False,phunks,2146,1,True,True,True,M7 Transf. pHash
+False,phunks,2281,2,False,False,False,M4 pHash
+False,phunks,2361,1,True,True,True,M7 Transf. pHash
+False,phunks,2394,1,True,True,True,M7 Transf. pHash
+False,phunks,2476,1,True,True,True,M7 Transf. pHash
+False,phunks,2645,1,True,True,True,M7 Transf. pHash
+False,phunks,3172,1,False,False,False,M4 pHash
+False,phunks,3191,1,True,True,True,M7 Transf. pHash
+False,phunks,3197,1,True,True,True,M7 Transf. pHash
+False,phunks,3222,1,True,True,True,M7 Transf. pHash
+False,phunks,3348,1,True,True,True,M7 Transf. pHash
+False,phunks,3407,1,False,False,False,M4 pHash
+False,phunks,3420,1,True,True,True,M7 Transf. pHash
+False,phunks,3457,1,False,False,False,M4 pHash
+False,phunks,3612,1,True,True,True,M7 Transf. pHash
+False,phunks,3650,1,True,True,True,M7 Transf. pHash
+False,phunks,3714,1,False,False,False,M4 pHash
+False,phunks,3716,1,True,True,True,M7 Transf. pHash
+False,phunks,4132,1,True,True,True,M7 Transf. pHash
+False,phunks,4883,1,True,True,True,M7 Transf. pHash
+False,phunks,5220,1,False,False,False,M4 pHash
+False,phunks,5533,1,True,True,True,M7 Transf. pHash
+False,phunks,5571,1,True,True,True,M7 Transf. pHash
+False,phunks,5640,2,False,False,False,M4 pHash
+False,phunks,5827,2,False,False,False,M4 pHash
+False,phunks,5974,1,True,True,True,M7 Transf. pHash
+False,phunks,6164,1,True,True,True,M7 Transf. pHash
+False,phunks,6428,1,True,True,True,M7 Transf. pHash
+False,phunks,6485,1,False,False,False,M4 pHash
+False,phunks,6536,1,False,False,False,M4 pHash
+False,phunks,6560,1,True,True,True,M7 Transf. pHash
+False,phunks,6576,1,True,True,True,M7 Transf. pHash
+False,phunks,7109,1,True,True,True,M7 Transf. pHash
+False,phunks,7588,1,True,True,True,M7 Transf. pHash
+False,phunks,7624,1,False,False,False,M4 pHash
+False,phunks,7832,1,True,True,True,M7 Transf. pHash
+False,phunks,7855,1,True,True,True,M7 Transf. pHash
+False,phunks,7870,1,True,True,True,M7 Transf. pHash
+False,phunks,8445,1,True,True,True,M7 Transf. pHash
+False,phunks,8459,1,True,True,True,M7 Transf. pHash
+False,phunks,8725,1,True,True,True,M7 Transf. pHash
+False,phunks,8873,1,True,True,True,M7 Transf. pHash
+False,phunks,8983,1,False,False,False,M4 pHash
+False,phunks,9163,1,True,True,True,M7 Transf. pHash
+False,phunks,9286,1,True,True,True,M7 Transf. pHash
+False,phunks,9842,1,True,True,True,M7 Transf. pHash
+False,phunks,9914,1,True,True,True,M7 Transf. pHash
+False,phunks,417,2,False,False,False,M4 pHash
+False,phunks,1407,1,True,True,True,M7 Transf. pHash
+False,phunks,2401,1,True,True,True,M7 Transf. pHash
+False,phunks,2478,1,True,True,True,M7 Transf. pHash
+False,phunks,5401,1,False,False,False,M4 pHash
+False,phunks,5636,1,True,True,True,M7 Transf. pHash
+False,phunks,5825,1,True,True,True,M7 Transf. pHash
+False,phunks,5966,1,False,False,False,M4 pHash
+False,phunks,7634,1,True,True,True,M7 Transf. pHash
+False,phunks,7701,1,True,True,True,M7 Transf. pHash
+False,phunks,7771,1,True,True,True,M7 Transf. pHash
+False,phunks,7889,2,False,False,False,M4 pHash
+False,phunks,8758,1,True,True,True,M7 Transf. pHash
+False,phunks,9762,1,True,True,True,M7 Transf. pHash
+False,phunks,9991,1,True,True,True,M7 Transf. pHash
+False,phunks,3,1,True,True,True,M7 Transf. pHash
+False,phunks,233,1,False,False,False,M4 pHash
+False,phunks,350,1,False,False,False,M4 pHash
+False,phunks,378,1,True,True,True,M7 Transf. pHash
+False,phunks,451,1,False,False,False,M4 pHash
+False,phunks,457,1,True,True,True,M7 Transf. pHash
+False,phunks,458,1,True,True,True,M7 Transf. pHash
+False,phunks,474,1,True,True,True,M7 Transf. pHash
+False,phunks,1019,1,True,True,True,M7 Transf. pHash
+False,phunks,1319,1,False,False,False,M4 pHash
+False,phunks,1491,2,False,False,False,M4 pHash
+False,phunks,1673,1,False,False,False,M4 pHash
+False,phunks,1674,1,False,False,False,M4 pHash
+False,phunks,1677,2,True,True,True,M7 Transf. pHash
+False,phunks,1683,1,True,True,True,M7 Transf. pHash
+False,phunks,1696,2,True,True,True,M7 Transf. pHash
+False,phunks,2433,1,True,True,True,M7 Transf. pHash
+False,phunks,2554,1,True,True,True,M7 Transf. pHash
+False,phunks,2602,1,True,True,True,M7 Transf. pHash
+False,phunks,2659,1,False,False,False,M4 pHash
+False,phunks,2736,1,False,False,False,M4 pHash
+False,phunks,2785,1,True,True,True,M7 Transf. pHash
+False,phunks,2924,1,True,True,True,M7 Transf. pHash
+False,phunks,3122,1,True,True,True,M7 Transf. pHash
+False,phunks,3265,1,True,True,True,M7 Transf. pHash
+False,phunks,3362,1,False,False,False,M4 pHash
+False,phunks,3922,1,True,True,True,M7 Transf. pHash
+False,phunks,4126,1,True,True,True,M7 Transf. pHash
+False,phunks,4246,3,False,False,False,M4 pHash
+False,phunks,4278,1,True,True,True,M7 Transf. pHash
+False,phunks,4337,1,True,True,True,M7 Transf. pHash
+False,phunks,4577,1,True,True,True,M7 Transf. pHash
+False,phunks,5109,1,True,True,True,M7 Transf. pHash
+False,phunks,5447,1,True,True,True,M7 Transf. pHash
+False,phunks,5691,2,False,False,False,M4 pHash
+False,phunks,5741,1,True,True,True,M7 Transf. pHash
+False,phunks,5926,2,False,False,False,M4 pHash
+False,phunks,5957,1,False,False,False,M4 pHash
+False,phunks,6008,1,True,True,True,M7 Transf. pHash
+False,phunks,6049,1,True,True,True,M7 Transf. pHash
+False,phunks,6365,1,False,False,False,M4 pHash
+False,phunks,6457,1,True,True,True,M7 Transf. pHash
+False,phunks,6521,1,True,True,True,M7 Transf. pHash
+False,phunks,6564,1,False,False,False,M4 pHash
+False,phunks,7107,1,False,False,False,M4 pHash
+False,phunks,7481,1,True,True,True,M7 Transf. pHash
+False,phunks,7907,1,True,True,True,M7 Transf. pHash
+False,phunks,7927,1,True,True,True,M7 Transf. pHash
+False,phunks,7996,1,True,True,True,M7 Transf. pHash
+False,phunks,8073,1,True,True,True,M7 Transf. pHash
+False,phunks,8236,1,True,True,True,M7 Transf. pHash
+False,phunks,8480,1,True,True,True,M7 Transf. pHash
+False,phunks,8627,1,True,True,True,M7 Transf. pHash
+False,phunks,8652,1,False,False,False,M4 pHash
+False,phunks,8654,1,True,True,True,M7 Transf. pHash
+False,phunks,8791,1,True,True,True,M7 Transf. pHash
+False,phunks,8899,1,True,True,True,M7 Transf. pHash
+False,phunks,9278,1,True,True,True,M7 Transf. pHash
+False,phunks,9867,1,True,True,True,M7 Transf. pHash
+True,rrbayc,67,1,True,True,True,M4 pHash
+True,rrbayc,197,1,True,True,True,M4 pHash
+True,rrbayc,369,1,True,True,True,M4 pHash
+True,rrbayc,614,1,True,True,True,M4 pHash
+True,rrbayc,642,1,True,True,True,M4 pHash
+True,rrbayc,791,1,True,True,True,M4 pHash
+True,rrbayc,812,1,True,True,True,M4 pHash
+True,rrbayc,965,1,True,True,True,M4 pHash
+True,rrbayc,968,1,True,True,True,M4 pHash
+True,rrbayc,976,1,True,True,True,M4 pHash
+True,rrbayc,994,1,True,True,True,M4 pHash
+True,rrbayc,1028,1,True,True,True,M4 pHash
+True,rrbayc,1064,1,True,True,True,M4 pHash
+True,rrbayc,1126,1,True,True,True,M4 pHash
+True,rrbayc,1144,1,True,True,True,M4 pHash
+True,rrbayc,1186,1,True,True,True,M4 pHash
+True,rrbayc,1199,1,True,True,True,M4 pHash
+True,rrbayc,1271,1,True,True,True,M4 pHash
+True,rrbayc,1320,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1359,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1486,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1542,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1596,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1688,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1918,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1934,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2243,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2363,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2386,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2471,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2472,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2478,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2490,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2702,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2725,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2753,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2887,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2945,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2987,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3374,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3575,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3622,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3822,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3999,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4070,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4304,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4422,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4662,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4717,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4744,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4919,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5140,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5305,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5572,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5604,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5627,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5685,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5737,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5823,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5878,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5924,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5991,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6101,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6233,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6320,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6405,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6468,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6499,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6519,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6580,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6804,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6850,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6851,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6867,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6909,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7005,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7104,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7301,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7424,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7564,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7628,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7767,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8111,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8133,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8134,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8779,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8858,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8974,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9014,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9120,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9246,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9358,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9388,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9411,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9469,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9501,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9528,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4552,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5054,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6955,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8387,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8711,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9002,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,950,1,True,True,True,M4 pHash
+True,rrbayc,1013,1,True,True,True,M4 pHash
+True,rrbayc,1341,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1408,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1533,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,1929,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2028,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,2181,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3078,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3517,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3657,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3780,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3800,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,3943,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4056,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4561,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4709,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,4911,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,5072,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,6864,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7053,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7353,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7359,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,7945,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8088,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8137,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8313,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,8604,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9028,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9143,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9179,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9264,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9353,1,True,True,True,M1 Raw SHA-256
+True,rrbayc,9455,1,True,True,True,M1 Raw SHA-256
+True,phunks,31,2,True,True,True,M7 Transf. pHash
+True,phunks,443,2,True,True,True,M7 Transf. pHash
+True,phunks,884,2,True,True,True,M7 Transf. pHash
+True,phunks,1103,1,True,True,True,M7 Transf. pHash
+True,phunks,1152,1,True,True,True,M7 Transf. pHash
+True,phunks,1662,2,True,False,True,M7 Transf. pHash
+True,phunks,1801,1,True,True,True,M7 Transf. pHash
+True,phunks,1889,1,True,True,True,M7 Transf. pHash
+True,phunks,2012,1,True,True,True,M7 Transf. pHash
+True,phunks,2056,1,True,True,True,M7 Transf. pHash
+True,phunks,2146,1,True,True,True,M7 Transf. pHash
+True,phunks,2281,3,True,True,True,M7 Transf. pHash
+True,phunks,2361,1,True,True,True,M7 Transf. pHash
+True,phunks,2394,1,True,True,True,M7 Transf. pHash
+True,phunks,2476,1,True,True,True,M7 Transf. pHash
+True,phunks,2645,1,True,True,True,M7 Transf. pHash
+True,phunks,3172,2,True,False,True,M7 Transf. pHash
+True,phunks,3191,1,True,True,True,M7 Transf. pHash
+True,phunks,3197,1,True,True,True,M7 Transf. pHash
+True,phunks,3222,1,True,True,True,M7 Transf. pHash
+True,phunks,3348,1,True,True,True,M7 Transf. pHash
+True,phunks,3407,2,True,False,True,M7 Transf. pHash
+True,phunks,3420,1,True,True,True,M7 Transf. pHash
+True,phunks,3457,2,True,False,True,M7 Transf. pHash
+True,phunks,3612,1,True,True,True,M7 Transf. pHash
+True,phunks,3650,1,True,True,True,M7 Transf. pHash
+True,phunks,3714,2,True,False,True,M7 Transf. pHash
+True,phunks,3716,1,True,True,True,M7 Transf. pHash
+True,phunks,4132,1,True,True,True,M7 Transf. pHash
+True,phunks,4883,1,True,True,True,M7 Transf. pHash
+True,phunks,5220,2,True,True,True,M7 Transf. pHash
+True,phunks,5533,1,True,True,True,M7 Transf. pHash
+True,phunks,5571,1,True,True,True,M7 Transf. pHash
+True,phunks,5640,3,True,False,True,M7 Transf. pHash
+True,phunks,5827,3,True,False,True,M7 Transf. pHash
+True,phunks,5974,1,True,True,True,M7 Transf. pHash
+True,phunks,6164,1,True,True,True,M7 Transf. pHash
+True,phunks,6428,1,True,True,True,M7 Transf. pHash
+True,phunks,6485,2,True,True,True,M7 Transf. pHash
+True,phunks,6536,2,True,False,True,M7 Transf. pHash
+True,phunks,6560,1,True,True,True,M7 Transf. pHash
+True,phunks,6576,1,True,True,True,M7 Transf. pHash
+True,phunks,7109,1,True,True,True,M7 Transf. pHash
+True,phunks,7588,1,True,True,True,M7 Transf. pHash
+True,phunks,7624,2,True,False,True,M7 Transf. pHash
+True,phunks,7832,1,True,True,True,M7 Transf. pHash
+True,phunks,7855,1,True,True,True,M7 Transf. pHash
+True,phunks,7870,1,True,True,True,M7 Transf. pHash
+True,phunks,8445,1,True,True,True,M7 Transf. pHash
+True,phunks,8459,1,True,True,True,M7 Transf. pHash
+True,phunks,8725,1,True,True,True,M7 Transf. pHash
+True,phunks,8873,1,True,True,True,M7 Transf. pHash
+True,phunks,8983,2,True,False,True,M7 Transf. pHash
+True,phunks,9163,1,True,True,True,M7 Transf. pHash
+True,phunks,9286,1,True,True,True,M7 Transf. pHash
+True,phunks,9842,1,True,True,True,M7 Transf. pHash
+True,phunks,9914,1,True,True,True,M7 Transf. pHash
+True,phunks,417,3,True,True,True,M7 Transf. pHash
+True,phunks,1407,1,True,True,True,M7 Transf. pHash
+True,phunks,2401,1,True,True,True,M7 Transf. pHash
+True,phunks,2478,1,True,True,True,M7 Transf. pHash
+True,phunks,5401,2,True,False,True,M7 Transf. pHash
+True,phunks,5636,1,True,True,True,M7 Transf. pHash
+True,phunks,5825,1,True,True,True,M7 Transf. pHash
+True,phunks,5966,2,True,True,True,M7 Transf. pHash
+True,phunks,7634,1,True,True,True,M7 Transf. pHash
+True,phunks,7701,1,True,True,True,M7 Transf. pHash
+True,phunks,7771,1,True,True,True,M7 Transf. pHash
+True,phunks,7889,3,True,False,True,M7 Transf. pHash
+True,phunks,8758,1,True,True,True,M7 Transf. pHash
+True,phunks,9762,1,True,True,True,M7 Transf. pHash
+True,phunks,9991,1,True,True,True,M7 Transf. pHash
+True,phunks,3,1,True,True,True,M7 Transf. pHash
+True,phunks,233,2,True,True,True,M7 Transf. pHash
+True,phunks,350,3,True,False,True,M7 Transf. pHash
+True,phunks,378,1,True,True,True,M7 Transf. pHash
+True,phunks,451,2,True,True,True,M7 Transf. pHash
+True,phunks,457,1,True,True,True,M7 Transf. pHash
+True,phunks,458,1,True,True,True,M7 Transf. pHash
+True,phunks,474,1,True,True,True,M7 Transf. pHash
+True,phunks,1019,1,True,True,True,M7 Transf. pHash
+True,phunks,1319,1,True,True,True,M7 Transf. pHash
+True,phunks,1491,3,True,True,True,M7 Transf. pHash
+True,phunks,1673,2,True,True,True,M7 Transf. pHash
+True,phunks,1674,1,True,True,True,M7 Transf. pHash
+True,phunks,1677,2,True,True,True,M7 Transf. pHash
+True,phunks,1683,1,True,True,True,M7 Transf. pHash
+True,phunks,1696,2,True,True,True,M7 Transf. pHash
+True,phunks,2433,1,True,True,True,M7 Transf. pHash
+True,phunks,2554,1,True,True,True,M7 Transf. pHash
+True,phunks,2602,1,True,True,True,M7 Transf. pHash
+True,phunks,2659,2,True,False,True,M7 Transf. pHash
+True,phunks,2736,2,True,True,True,M7 Transf. pHash
+True,phunks,2785,1,True,True,True,M7 Transf. pHash
+True,phunks,2924,1,True,True,True,M7 Transf. pHash
+True,phunks,3122,1,True,True,True,M7 Transf. pHash
+True,phunks,3265,1,True,True,True,M7 Transf. pHash
+True,phunks,3362,2,True,True,True,M7 Transf. pHash
+True,phunks,3922,1,True,True,True,M7 Transf. pHash
+True,phunks,4126,1,True,True,True,M7 Transf. pHash
+True,phunks,4246,3,True,True,True,M7 Transf. pHash
+True,phunks,4278,1,True,True,True,M7 Transf. pHash
+True,phunks,4337,1,True,True,True,M7 Transf. pHash
+True,phunks,4577,1,True,True,True,M7 Transf. pHash
+True,phunks,5109,1,True,True,True,M7 Transf. pHash
+True,phunks,5447,1,True,True,True,M7 Transf. pHash
+True,phunks,5691,3,True,False,True,M7 Transf. pHash
+True,phunks,5741,1,True,True,True,M7 Transf. pHash
+True,phunks,5926,3,True,False,True,M7 Transf. pHash
+True,phunks,5957,2,True,False,True,M7 Transf. pHash
+True,phunks,6008,1,True,True,True,M7 Transf. pHash
+True,phunks,6049,1,True,True,True,M7 Transf. pHash
+True,phunks,6365,2,True,False,True,M7 Transf. pHash
+True,phunks,6457,1,True,True,True,M7 Transf. pHash
+True,phunks,6521,1,True,True,True,M7 Transf. pHash
+True,phunks,6564,2,True,False,True,M7 Transf. pHash
+True,phunks,7107,2,True,False,True,M7 Transf. pHash
+True,phunks,7481,1,True,True,True,M7 Transf. pHash
+True,phunks,7907,1,True,True,True,M7 Transf. pHash
+True,phunks,7927,1,True,True,True,M7 Transf. pHash
+True,phunks,7996,1,True,True,True,M7 Transf. pHash
+True,phunks,8073,1,True,True,True,M7 Transf. pHash
+True,phunks,8236,1,True,True,True,M7 Transf. pHash
+True,phunks,8480,1,True,True,True,M7 Transf. pHash
+True,phunks,8627,1,True,True,True,M7 Transf. pHash
+True,phunks,8652,2,True,False,True,M7 Transf. pHash
+True,phunks,8654,1,True,True,True,M7 Transf. pHash
+True,phunks,8791,1,True,True,True,M7 Transf. pHash
+True,phunks,8899,1,True,True,True,M7 Transf. pHash
+True,phunks,9278,1,True,True,True,M7 Transf. pHash
+True,phunks,9867,1,True,True,True,M7 Transf. pHash

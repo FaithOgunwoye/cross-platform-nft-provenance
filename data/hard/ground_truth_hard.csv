@@ -1,0 +1,1301 @@
+candidate,source,distortion,distortion_class,label,param
+ref_art_blocks_chromie_squiggle_1__adapt.png,ref_art_blocks_chromie_squiggle_1.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.250
+ref_art_blocks_chromie_squiggle_10__adapt.png,ref_art_blocks_chromie_squiggle_10.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.234
+ref_art_blocks_chromie_squiggle_2__adapt.png,ref_art_blocks_chromie_squiggle_2.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.188
+ref_art_blocks_chromie_squiggle_3__adapt.png,ref_art_blocks_chromie_squiggle_3.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.227
+ref_art_blocks_chromie_squiggle_4__adapt.png,ref_art_blocks_chromie_squiggle_4.png,adaptive_m7,adaptive,duplicate,mag=0.3;m7=0.281
+ref_art_blocks_chromie_squiggle_5__adapt.png,ref_art_blocks_chromie_squiggle_5.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.172
+ref_art_blocks_chromie_squiggle_6__adapt.png,ref_art_blocks_chromie_squiggle_6.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.234
+ref_art_blocks_chromie_squiggle_7__adapt.png,ref_art_blocks_chromie_squiggle_7.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_art_blocks_chromie_squiggle_8__adapt.png,ref_art_blocks_chromie_squiggle_8.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.203
+ref_art_blocks_chromie_squiggle_9__adapt.png,ref_art_blocks_chromie_squiggle_9.png,adaptive_m7,adaptive,duplicate,mag=0.3;m7=0.273
+ref_art_blocks_fidenza_78000001__adapt.png,ref_art_blocks_fidenza_78000001.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.195
+ref_art_blocks_fidenza_78000002__adapt.png,ref_art_blocks_fidenza_78000002.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.188
+ref_art_blocks_fidenza_78000003__adapt.png,ref_art_blocks_fidenza_78000003.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.203
+ref_art_blocks_fidenza_78000004__adapt.png,ref_art_blocks_fidenza_78000004.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.164
+ref_art_blocks_fidenza_78000005__adapt.png,ref_art_blocks_fidenza_78000005.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.203
+ref_art_blocks_fidenza_78000006__adapt.png,ref_art_blocks_fidenza_78000006.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.195
+ref_art_blocks_fidenza_78000007__adapt.png,ref_art_blocks_fidenza_78000007.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.258
+ref_art_blocks_fidenza_78000008__adapt.png,ref_art_blocks_fidenza_78000008.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.188
+ref_art_blocks_fidenza_78000009__adapt.png,ref_art_blocks_fidenza_78000009.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.195
+ref_art_blocks_fidenza_78000010__adapt.png,ref_art_blocks_fidenza_78000010.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.273
+ref_azuki_1__adapt.png,ref_azuki_1.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_azuki_10__adapt.png,ref_azuki_10.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.195
+ref_azuki_2__adapt.png,ref_azuki_2.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.180
+ref_azuki_3__adapt.png,ref_azuki_3.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.195
+ref_azuki_4__adapt.png,ref_azuki_4.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.352
+ref_azuki_5__adapt.png,ref_azuki_5.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.180
+ref_azuki_6__adapt.png,ref_azuki_6.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.188
+ref_azuki_7__adapt.png,ref_azuki_7.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.195
+ref_azuki_8__adapt.png,ref_azuki_8.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_azuki_9__adapt.png,ref_azuki_9.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.258
+ref_bored_ape_yacht_club_1__adapt.png,ref_bored_ape_yacht_club_1.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.180
+ref_bored_ape_yacht_club_10__adapt.png,ref_bored_ape_yacht_club_10.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.188
+ref_bored_ape_yacht_club_2__adapt.png,ref_bored_ape_yacht_club_2.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.180
+ref_bored_ape_yacht_club_3__adapt.png,ref_bored_ape_yacht_club_3.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.203
+ref_bored_ape_yacht_club_4__adapt.png,ref_bored_ape_yacht_club_4.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_bored_ape_yacht_club_5__adapt.png,ref_bored_ape_yacht_club_5.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.273
+ref_bored_ape_yacht_club_6__adapt.png,ref_bored_ape_yacht_club_6.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.172
+ref_bored_ape_yacht_club_7__adapt.png,ref_bored_ape_yacht_club_7.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.172
+ref_bored_ape_yacht_club_8__adapt.png,ref_bored_ape_yacht_club_8.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_bored_ape_yacht_club_9__adapt.png,ref_bored_ape_yacht_club_9.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.164
+ref_doodles_1__adapt.png,ref_doodles_1.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.180
+ref_doodles_10__adapt.png,ref_doodles_10.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_doodles_2__adapt.png,ref_doodles_2.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_doodles_3__adapt.png,ref_doodles_3.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_doodles_4__adapt.png,ref_doodles_4.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.195
+ref_doodles_5__adapt.png,ref_doodles_5.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.297
+ref_doodles_6__adapt.png,ref_doodles_6.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.180
+ref_doodles_7__adapt.png,ref_doodles_7.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.281
+ref_doodles_8__adapt.png,ref_doodles_8.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.367
+ref_doodles_9__adapt.png,ref_doodles_9.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.180
+ref_loot_1__adapt.png,ref_loot_1.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.344
+ref_loot_10__adapt.png,ref_loot_10.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.188
+ref_loot_2__adapt.png,ref_loot_2.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.211
+ref_loot_3__adapt.png,ref_loot_3.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.289
+ref_loot_4__adapt.png,ref_loot_4.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.344
+ref_loot_5__adapt.png,ref_loot_5.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.172
+ref_loot_6__adapt.png,ref_loot_6.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.281
+ref_loot_7__adapt.png,ref_loot_7.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.195
+ref_loot_8__adapt.png,ref_loot_8.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.297
+ref_loot_9__adapt.png,ref_loot_9.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.227
+ref_meebits_1__adapt.png,ref_meebits_1.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.219
+ref_meebits_2__adapt.png,ref_meebits_2.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.297
+ref_meebits_3__adapt.png,ref_meebits_3.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.203
+ref_meebits_4__adapt.png,ref_meebits_4.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.172
+ref_meebits_5__adapt.png,ref_meebits_5.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.211
+ref_moonbirds_1__adapt.png,ref_moonbirds_1.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.180
+ref_moonbirds_10__adapt.png,ref_moonbirds_10.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_moonbirds_2__adapt.png,ref_moonbirds_2.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.172
+ref_moonbirds_3__adapt.png,ref_moonbirds_3.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.234
+ref_moonbirds_4__adapt.png,ref_moonbirds_4.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.211
+ref_moonbirds_5__adapt.png,ref_moonbirds_5.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.164
+ref_moonbirds_6__adapt.png,ref_moonbirds_6.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.180
+ref_moonbirds_7__adapt.png,ref_moonbirds_7.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.234
+ref_moonbirds_8__adapt.png,ref_moonbirds_8.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.195
+ref_moonbirds_9__adapt.png,ref_moonbirds_9.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.203
+ref_nouns_1__adapt.png,ref_nouns_1.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_nouns_10__adapt.png,ref_nouns_10.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.211
+ref_nouns_2__adapt.png,ref_nouns_2.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_nouns_3__adapt.png,ref_nouns_3.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.195
+ref_nouns_4__adapt.png,ref_nouns_4.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.172
+ref_nouns_5__adapt.png,ref_nouns_5.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.180
+ref_nouns_6__adapt.png,ref_nouns_6.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_nouns_7__adapt.png,ref_nouns_7.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.195
+ref_nouns_8__adapt.png,ref_nouns_8.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.227
+ref_nouns_9__adapt.png,ref_nouns_9.png,adaptive_m7,adaptive,duplicate,mag=0.3;m7=0.195
+ref_pudgy_penguins_1__adapt.png,ref_pudgy_penguins_1.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.203
+ref_pudgy_penguins_2__adapt.png,ref_pudgy_penguins_2.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.266
+ref_pudgy_penguins_3__adapt.png,ref_pudgy_penguins_3.png,adaptive_m7,adaptive,duplicate,mag=0.2;m7=0.188
+ref_pudgy_penguins_4__adapt.png,ref_pudgy_penguins_4.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.172
+ref_pudgy_penguins_5__adapt.png,ref_pudgy_penguins_5.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.180
+ref_world_of_women_1__adapt.png,ref_world_of_women_1.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_world_of_women_10__adapt.png,ref_world_of_women_10.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.266
+ref_world_of_women_2__adapt.png,ref_world_of_women_2.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_world_of_women_3__adapt.png,ref_world_of_women_3.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.172
+ref_world_of_women_4__adapt.png,ref_world_of_women_4.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_world_of_women_5__adapt.png,ref_world_of_women_5.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.203
+ref_world_of_women_6__adapt.png,ref_world_of_women_6.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.156
+ref_world_of_women_7__adapt.png,ref_world_of_women_7.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.164
+ref_world_of_women_8__adapt.png,ref_world_of_women_8.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.164
+ref_world_of_women_9__adapt.png,ref_world_of_women_9.png,adaptive_m7,adaptive,duplicate,mag=0.1;m7=0.227
+ref_art_blocks_chromie_squiggle_1__cmp0.png,ref_art_blocks_chromie_squiggle_1.png,compound3,compound,duplicate,rs0.44+hue-31+jpeg51
+ref_art_blocks_chromie_squiggle_1__cmp1.png,ref_art_blocks_chromie_squiggle_1.png,compound3,compound,duplicate,persp+blur1.9+hue-38
+ref_art_blocks_chromie_squiggle_1__cmp2.png,ref_art_blocks_chromie_squiggle_1.png,compound3,compound,duplicate,sticker+jpeg70+blur2.2
+ref_art_blocks_chromie_squiggle_1__cmp3.png,ref_art_blocks_chromie_squiggle_1.png,compound3,compound,duplicate,crop0.17+jpeg49+blur1.5
+ref_art_blocks_chromie_squiggle_1__cmp4.png,ref_art_blocks_chromie_squiggle_1.png,compound2,compound,duplicate,blur1.0+hue54
+ref_art_blocks_chromie_squiggle_1__cmp5.png,ref_art_blocks_chromie_squiggle_1.png,compound2,compound,duplicate,jpeg52+border
+ref_art_blocks_chromie_squiggle_10__cmp0.png,ref_art_blocks_chromie_squiggle_10.png,compound3,compound,duplicate,sticker+hflip+persp
+ref_art_blocks_chromie_squiggle_10__cmp1.png,ref_art_blocks_chromie_squiggle_10.png,compound2,compound,duplicate,hflip+rot-16
+ref_art_blocks_chromie_squiggle_10__cmp2.png,ref_art_blocks_chromie_squiggle_10.png,compound3,compound,duplicate,rot-23+blur2.3+sticker
+ref_art_blocks_chromie_squiggle_10__cmp3.png,ref_art_blocks_chromie_squiggle_10.png,compound3,compound,duplicate,jpeg75+blur1.5+rs0.46
+ref_art_blocks_chromie_squiggle_10__cmp4.png,ref_art_blocks_chromie_squiggle_10.png,compound3,compound,duplicate,jpeg50+persp+hflip
+ref_art_blocks_chromie_squiggle_10__cmp5.png,ref_art_blocks_chromie_squiggle_10.png,compound2,compound,duplicate,persp+sticker
+ref_art_blocks_chromie_squiggle_2__cmp0.png,ref_art_blocks_chromie_squiggle_2.png,compound3,compound,duplicate,persp+hue47+jpeg74
+ref_art_blocks_chromie_squiggle_2__cmp1.png,ref_art_blocks_chromie_squiggle_2.png,compound2,compound,duplicate,rot20+hflip
+ref_art_blocks_chromie_squiggle_2__cmp2.png,ref_art_blocks_chromie_squiggle_2.png,compound3,compound,duplicate,hue-52+jpeg46+sticker
+ref_art_blocks_chromie_squiggle_2__cmp3.png,ref_art_blocks_chromie_squiggle_2.png,compound3,compound,duplicate,hue38+rs0.76+border
+ref_art_blocks_chromie_squiggle_2__cmp4.png,ref_art_blocks_chromie_squiggle_2.png,compound2,compound,duplicate,hue16+hflip
+ref_art_blocks_chromie_squiggle_2__cmp5.png,ref_art_blocks_chromie_squiggle_2.png,compound2,compound,duplicate,rot22+sticker
+ref_art_blocks_chromie_squiggle_3__cmp0.png,ref_art_blocks_chromie_squiggle_3.png,compound3,compound,duplicate,blur1.4+persp+rot-23
+ref_art_blocks_chromie_squiggle_3__cmp1.png,ref_art_blocks_chromie_squiggle_3.png,compound3,compound,duplicate,blur1.3+crop0.15+hue52
+ref_art_blocks_chromie_squiggle_3__cmp2.png,ref_art_blocks_chromie_squiggle_3.png,compound2,compound,duplicate,sticker+border
+ref_art_blocks_chromie_squiggle_3__cmp3.png,ref_art_blocks_chromie_squiggle_3.png,compound3,compound,duplicate,border+rs0.62+hue-48
+ref_art_blocks_chromie_squiggle_3__cmp4.png,ref_art_blocks_chromie_squiggle_3.png,compound2,compound,duplicate,persp+hue-34
+ref_art_blocks_chromie_squiggle_3__cmp5.png,ref_art_blocks_chromie_squiggle_3.png,compound2,compound,duplicate,persp+border
+ref_art_blocks_chromie_squiggle_4__cmp0.png,ref_art_blocks_chromie_squiggle_4.png,compound3,compound,duplicate,jpeg65+sticker+rot-17
+ref_art_blocks_chromie_squiggle_4__cmp1.png,ref_art_blocks_chromie_squiggle_4.png,compound2,compound,duplicate,rs0.80+hue-41
+ref_art_blocks_chromie_squiggle_4__cmp2.png,ref_art_blocks_chromie_squiggle_4.png,compound2,compound,duplicate,crop0.11+hue-46
+ref_art_blocks_chromie_squiggle_4__cmp3.png,ref_art_blocks_chromie_squiggle_4.png,compound3,compound,duplicate,rs0.46+jpeg59+persp
+ref_art_blocks_chromie_squiggle_4__cmp4.png,ref_art_blocks_chromie_squiggle_4.png,compound3,compound,duplicate,border+rs0.76+blur1.3
+ref_art_blocks_chromie_squiggle_4__cmp5.png,ref_art_blocks_chromie_squiggle_4.png,compound2,compound,duplicate,blur2.3+rot-25
+ref_art_blocks_chromie_squiggle_5__cmp0.png,ref_art_blocks_chromie_squiggle_5.png,compound2,compound,duplicate,crop0.19+hflip
+ref_art_blocks_chromie_squiggle_5__cmp1.png,ref_art_blocks_chromie_squiggle_5.png,compound2,compound,duplicate,crop0.13+persp
+ref_art_blocks_chromie_squiggle_5__cmp2.png,ref_art_blocks_chromie_squiggle_5.png,compound2,compound,duplicate,hue-18+sticker
+ref_art_blocks_chromie_squiggle_5__cmp3.png,ref_art_blocks_chromie_squiggle_5.png,compound2,compound,duplicate,crop0.19+jpeg68
+ref_art_blocks_chromie_squiggle_5__cmp4.png,ref_art_blocks_chromie_squiggle_5.png,compound2,compound,duplicate,border+rs0.58
+ref_art_blocks_chromie_squiggle_5__cmp5.png,ref_art_blocks_chromie_squiggle_5.png,compound3,compound,duplicate,rot12+border+crop0.15
+ref_art_blocks_chromie_squiggle_6__cmp0.png,ref_art_blocks_chromie_squiggle_6.png,compound2,compound,duplicate,hflip+persp
+ref_art_blocks_chromie_squiggle_6__cmp1.png,ref_art_blocks_chromie_squiggle_6.png,compound2,compound,duplicate,rot-23+border
+ref_art_blocks_chromie_squiggle_6__cmp2.png,ref_art_blocks_chromie_squiggle_6.png,compound2,compound,duplicate,jpeg47+blur2.0
+ref_art_blocks_chromie_squiggle_6__cmp3.png,ref_art_blocks_chromie_squiggle_6.png,compound2,compound,duplicate,jpeg74+rs0.44
+ref_art_blocks_chromie_squiggle_6__cmp4.png,ref_art_blocks_chromie_squiggle_6.png,compound3,compound,duplicate,crop0.19+border+hflip
+ref_art_blocks_chromie_squiggle_6__cmp5.png,ref_art_blocks_chromie_squiggle_6.png,compound2,compound,duplicate,crop0.12+jpeg75
+ref_art_blocks_chromie_squiggle_7__cmp0.png,ref_art_blocks_chromie_squiggle_7.png,compound3,compound,duplicate,rs0.70+sticker+blur2.2
+ref_art_blocks_chromie_squiggle_7__cmp1.png,ref_art_blocks_chromie_squiggle_7.png,compound3,compound,duplicate,persp+rs0.57+hue-55
+ref_art_blocks_chromie_squiggle_7__cmp2.png,ref_art_blocks_chromie_squiggle_7.png,compound2,compound,duplicate,hflip+blur1.3
+ref_art_blocks_chromie_squiggle_7__cmp3.png,ref_art_blocks_chromie_squiggle_7.png,compound3,compound,duplicate,border+sticker+hue-31
+ref_art_blocks_chromie_squiggle_7__cmp4.png,ref_art_blocks_chromie_squiggle_7.png,compound2,compound,duplicate,border+sticker
+ref_art_blocks_chromie_squiggle_7__cmp5.png,ref_art_blocks_chromie_squiggle_7.png,compound2,compound,duplicate,hue41+blur1.3
+ref_art_blocks_chromie_squiggle_8__cmp0.png,ref_art_blocks_chromie_squiggle_8.png,compound3,compound,duplicate,rs0.44+jpeg61+hflip
+ref_art_blocks_chromie_squiggle_8__cmp1.png,ref_art_blocks_chromie_squiggle_8.png,compound3,compound,duplicate,sticker+crop0.10+rot21
+ref_art_blocks_chromie_squiggle_8__cmp2.png,ref_art_blocks_chromie_squiggle_8.png,compound3,compound,duplicate,blur1.3+sticker+crop0.13
+ref_art_blocks_chromie_squiggle_8__cmp3.png,ref_art_blocks_chromie_squiggle_8.png,compound2,compound,duplicate,hflip+blur2.2
+ref_art_blocks_chromie_squiggle_8__cmp4.png,ref_art_blocks_chromie_squiggle_8.png,compound2,compound,duplicate,crop0.11+sticker
+ref_art_blocks_chromie_squiggle_8__cmp5.png,ref_art_blocks_chromie_squiggle_8.png,compound3,compound,duplicate,hflip+rs0.45+crop0.14
+ref_art_blocks_chromie_squiggle_9__cmp0.png,ref_art_blocks_chromie_squiggle_9.png,compound3,compound,duplicate,rs0.74+crop0.11+sticker
+ref_art_blocks_chromie_squiggle_9__cmp1.png,ref_art_blocks_chromie_squiggle_9.png,compound2,compound,duplicate,sticker+blur1.1
+ref_art_blocks_chromie_squiggle_9__cmp2.png,ref_art_blocks_chromie_squiggle_9.png,compound3,compound,duplicate,blur2.3+hue-39+crop0.17
+ref_art_blocks_chromie_squiggle_9__cmp3.png,ref_art_blocks_chromie_squiggle_9.png,compound2,compound,duplicate,border+rot-7
+ref_art_blocks_chromie_squiggle_9__cmp4.png,ref_art_blocks_chromie_squiggle_9.png,compound2,compound,duplicate,sticker+crop0.18
+ref_art_blocks_chromie_squiggle_9__cmp5.png,ref_art_blocks_chromie_squiggle_9.png,compound2,compound,duplicate,crop0.19+persp
+ref_art_blocks_fidenza_78000001__cmp0.png,ref_art_blocks_fidenza_78000001.png,compound2,compound,duplicate,blur1.0+sticker
+ref_art_blocks_fidenza_78000001__cmp1.png,ref_art_blocks_fidenza_78000001.png,compound3,compound,duplicate,persp+sticker+hue34
+ref_art_blocks_fidenza_78000001__cmp2.png,ref_art_blocks_fidenza_78000001.png,compound3,compound,duplicate,rot-7+rs0.65+jpeg64
+ref_art_blocks_fidenza_78000001__cmp3.png,ref_art_blocks_fidenza_78000001.png,compound3,compound,duplicate,jpeg58+border+hue45
+ref_art_blocks_fidenza_78000001__cmp4.png,ref_art_blocks_fidenza_78000001.png,compound3,compound,duplicate,hflip+rs0.43+rot-14
+ref_art_blocks_fidenza_78000001__cmp5.png,ref_art_blocks_fidenza_78000001.png,compound2,compound,duplicate,blur2.1+sticker
+ref_art_blocks_fidenza_78000002__cmp0.png,ref_art_blocks_fidenza_78000002.png,compound3,compound,duplicate,persp+rot18+sticker
+ref_art_blocks_fidenza_78000002__cmp1.png,ref_art_blocks_fidenza_78000002.png,compound2,compound,duplicate,blur1.3+hue55
+ref_art_blocks_fidenza_78000002__cmp2.png,ref_art_blocks_fidenza_78000002.png,compound2,compound,duplicate,sticker+hue-23
+ref_art_blocks_fidenza_78000002__cmp3.png,ref_art_blocks_fidenza_78000002.png,compound2,compound,duplicate,jpeg49+border
+ref_art_blocks_fidenza_78000002__cmp4.png,ref_art_blocks_fidenza_78000002.png,compound3,compound,duplicate,rot-18+persp+crop0.17
+ref_art_blocks_fidenza_78000002__cmp5.png,ref_art_blocks_fidenza_78000002.png,compound3,compound,duplicate,rot-12+border+rs0.55
+ref_art_blocks_fidenza_78000003__cmp0.png,ref_art_blocks_fidenza_78000003.png,compound2,compound,duplicate,sticker+border
+ref_art_blocks_fidenza_78000003__cmp1.png,ref_art_blocks_fidenza_78000003.png,compound2,compound,duplicate,border+jpeg70
+ref_art_blocks_fidenza_78000003__cmp2.png,ref_art_blocks_fidenza_78000003.png,compound2,compound,duplicate,border+sticker
+ref_art_blocks_fidenza_78000003__cmp3.png,ref_art_blocks_fidenza_78000003.png,compound2,compound,duplicate,blur2.1+rs0.69
+ref_art_blocks_fidenza_78000003__cmp4.png,ref_art_blocks_fidenza_78000003.png,compound2,compound,duplicate,blur1.9+hue50
+ref_art_blocks_fidenza_78000003__cmp5.png,ref_art_blocks_fidenza_78000003.png,compound2,compound,duplicate,hflip+sticker
+ref_art_blocks_fidenza_78000004__cmp0.png,ref_art_blocks_fidenza_78000004.png,compound2,compound,duplicate,hflip+border
+ref_art_blocks_fidenza_78000004__cmp1.png,ref_art_blocks_fidenza_78000004.png,compound2,compound,duplicate,blur2.2+rs0.47
+ref_art_blocks_fidenza_78000004__cmp2.png,ref_art_blocks_fidenza_78000004.png,compound2,compound,duplicate,hue-38+rs0.70
+ref_art_blocks_fidenza_78000004__cmp3.png,ref_art_blocks_fidenza_78000004.png,compound3,compound,duplicate,hflip+border+jpeg51
+ref_art_blocks_fidenza_78000004__cmp4.png,ref_art_blocks_fidenza_78000004.png,compound3,compound,duplicate,jpeg53+rot-21+crop0.12
+ref_art_blocks_fidenza_78000004__cmp5.png,ref_art_blocks_fidenza_78000004.png,compound2,compound,duplicate,border+crop0.15
+ref_art_blocks_fidenza_78000005__cmp0.png,ref_art_blocks_fidenza_78000005.png,compound2,compound,duplicate,hflip+crop0.14
+ref_art_blocks_fidenza_78000005__cmp1.png,ref_art_blocks_fidenza_78000005.png,compound3,compound,duplicate,hflip+rot10+hue40
+ref_art_blocks_fidenza_78000005__cmp2.png,ref_art_blocks_fidenza_78000005.png,compound2,compound,duplicate,crop0.12+sticker
+ref_art_blocks_fidenza_78000005__cmp3.png,ref_art_blocks_fidenza_78000005.png,compound3,compound,duplicate,sticker+blur1.5+persp
+ref_art_blocks_fidenza_78000005__cmp4.png,ref_art_blocks_fidenza_78000005.png,compound3,compound,duplicate,rot6+sticker+blur2.2
+ref_art_blocks_fidenza_78000005__cmp5.png,ref_art_blocks_fidenza_78000005.png,compound3,compound,duplicate,hue16+rot-6+sticker
+ref_art_blocks_fidenza_78000006__cmp0.png,ref_art_blocks_fidenza_78000006.png,compound2,compound,duplicate,jpeg53+sticker
+ref_art_blocks_fidenza_78000006__cmp1.png,ref_art_blocks_fidenza_78000006.png,compound3,compound,duplicate,jpeg46+rs0.42+border
+ref_art_blocks_fidenza_78000006__cmp2.png,ref_art_blocks_fidenza_78000006.png,compound3,compound,duplicate,blur1.3+border+jpeg70
+ref_art_blocks_fidenza_78000006__cmp3.png,ref_art_blocks_fidenza_78000006.png,compound2,compound,duplicate,rs0.42+sticker
+ref_art_blocks_fidenza_78000006__cmp4.png,ref_art_blocks_fidenza_78000006.png,compound2,compound,duplicate,sticker+jpeg73
+ref_art_blocks_fidenza_78000006__cmp5.png,ref_art_blocks_fidenza_78000006.png,compound2,compound,duplicate,hflip+border
+ref_art_blocks_fidenza_78000007__cmp0.png,ref_art_blocks_fidenza_78000007.png,compound3,compound,duplicate,sticker+hflip+jpeg49
+ref_art_blocks_fidenza_78000007__cmp1.png,ref_art_blocks_fidenza_78000007.png,compound3,compound,duplicate,blur2.1+border+rot-12
+ref_art_blocks_fidenza_78000007__cmp2.png,ref_art_blocks_fidenza_78000007.png,compound2,compound,duplicate,rot-7+hue-28
+ref_art_blocks_fidenza_78000007__cmp3.png,ref_art_blocks_fidenza_78000007.png,compound3,compound,duplicate,blur1.1+hflip+persp
+ref_art_blocks_fidenza_78000007__cmp4.png,ref_art_blocks_fidenza_78000007.png,compound2,compound,duplicate,border+crop0.12
+ref_art_blocks_fidenza_78000007__cmp5.png,ref_art_blocks_fidenza_78000007.png,compound2,compound,duplicate,blur1.9+jpeg66
+ref_art_blocks_fidenza_78000008__cmp0.png,ref_art_blocks_fidenza_78000008.png,compound2,compound,duplicate,hue-57+sticker
+ref_art_blocks_fidenza_78000008__cmp1.png,ref_art_blocks_fidenza_78000008.png,compound2,compound,duplicate,persp+jpeg43
+ref_art_blocks_fidenza_78000008__cmp2.png,ref_art_blocks_fidenza_78000008.png,compound3,compound,duplicate,rot-17+blur2.3+jpeg46
+ref_art_blocks_fidenza_78000008__cmp3.png,ref_art_blocks_fidenza_78000008.png,compound3,compound,duplicate,rot11+sticker+jpeg54
+ref_art_blocks_fidenza_78000008__cmp4.png,ref_art_blocks_fidenza_78000008.png,compound3,compound,duplicate,persp+hflip+border
+ref_art_blocks_fidenza_78000008__cmp5.png,ref_art_blocks_fidenza_78000008.png,compound2,compound,duplicate,border+hue35
+ref_art_blocks_fidenza_78000009__cmp0.png,ref_art_blocks_fidenza_78000009.png,compound2,compound,duplicate,hflip+jpeg68
+ref_art_blocks_fidenza_78000009__cmp1.png,ref_art_blocks_fidenza_78000009.png,compound2,compound,duplicate,sticker+blur1.4
+ref_art_blocks_fidenza_78000009__cmp2.png,ref_art_blocks_fidenza_78000009.png,compound2,compound,duplicate,rot16+jpeg59
+ref_art_blocks_fidenza_78000009__cmp3.png,ref_art_blocks_fidenza_78000009.png,compound2,compound,duplicate,hflip+rot8
+ref_art_blocks_fidenza_78000009__cmp4.png,ref_art_blocks_fidenza_78000009.png,compound3,compound,duplicate,sticker+persp+jpeg54
+ref_art_blocks_fidenza_78000009__cmp5.png,ref_art_blocks_fidenza_78000009.png,compound3,compound,duplicate,crop0.13+hue-52+persp
+ref_art_blocks_fidenza_78000010__cmp0.png,ref_art_blocks_fidenza_78000010.png,compound2,compound,duplicate,crop0.16+hflip
+ref_art_blocks_fidenza_78000010__cmp1.png,ref_art_blocks_fidenza_78000010.png,compound2,compound,duplicate,blur1.4+rot-18
+ref_art_blocks_fidenza_78000010__cmp2.png,ref_art_blocks_fidenza_78000010.png,compound3,compound,duplicate,hflip+persp+border
+ref_art_blocks_fidenza_78000010__cmp3.png,ref_art_blocks_fidenza_78000010.png,compound2,compound,duplicate,border+hflip
+ref_art_blocks_fidenza_78000010__cmp4.png,ref_art_blocks_fidenza_78000010.png,compound2,compound,duplicate,crop0.10+hue-50
+ref_art_blocks_fidenza_78000010__cmp5.png,ref_art_blocks_fidenza_78000010.png,compound3,compound,duplicate,jpeg59+blur1.1+crop0.12
+ref_azuki_1__cmp0.png,ref_azuki_1.png,compound3,compound,duplicate,border+rot12+jpeg41
+ref_azuki_1__cmp1.png,ref_azuki_1.png,compound2,compound,duplicate,jpeg74+crop0.13
+ref_azuki_1__cmp2.png,ref_azuki_1.png,compound2,compound,duplicate,persp+sticker
+ref_azuki_1__cmp3.png,ref_azuki_1.png,compound3,compound,duplicate,crop0.18+hflip+persp
+ref_azuki_1__cmp4.png,ref_azuki_1.png,compound2,compound,duplicate,blur2.2+persp
+ref_azuki_1__cmp5.png,ref_azuki_1.png,compound2,compound,duplicate,persp+jpeg46
+ref_azuki_10__cmp0.png,ref_azuki_10.png,compound2,compound,duplicate,persp+hue-38
+ref_azuki_10__cmp1.png,ref_azuki_10.png,compound2,compound,duplicate,crop0.12+persp
+ref_azuki_10__cmp2.png,ref_azuki_10.png,compound3,compound,duplicate,hflip+sticker+rot-7
+ref_azuki_10__cmp3.png,ref_azuki_10.png,compound3,compound,duplicate,blur1.8+border+hflip
+ref_azuki_10__cmp4.png,ref_azuki_10.png,compound2,compound,duplicate,sticker+rot22
+ref_azuki_10__cmp5.png,ref_azuki_10.png,compound3,compound,duplicate,crop0.15+blur2.4+persp
+ref_azuki_2__cmp0.png,ref_azuki_2.png,compound3,compound,duplicate,persp+rot19+hue-15
+ref_azuki_2__cmp1.png,ref_azuki_2.png,compound3,compound,duplicate,border+jpeg42+crop0.18
+ref_azuki_2__cmp2.png,ref_azuki_2.png,compound2,compound,duplicate,jpeg56+crop0.13
+ref_azuki_2__cmp3.png,ref_azuki_2.png,compound3,compound,duplicate,rs0.56+hflip+border
+ref_azuki_2__cmp4.png,ref_azuki_2.png,compound2,compound,duplicate,rs0.67+hue-59
+ref_azuki_2__cmp5.png,ref_azuki_2.png,compound2,compound,duplicate,crop0.19+border
+ref_azuki_3__cmp0.png,ref_azuki_3.png,compound2,compound,duplicate,rs0.50+crop0.12
+ref_azuki_3__cmp1.png,ref_azuki_3.png,compound2,compound,duplicate,hflip+persp
+ref_azuki_3__cmp2.png,ref_azuki_3.png,compound3,compound,duplicate,blur1.1+crop0.13+sticker
+ref_azuki_3__cmp3.png,ref_azuki_3.png,compound3,compound,duplicate,border+hflip+blur1.8
+ref_azuki_3__cmp4.png,ref_azuki_3.png,compound3,compound,duplicate,rs0.64+crop0.14+hflip
+ref_azuki_3__cmp5.png,ref_azuki_3.png,compound3,compound,duplicate,jpeg44+hflip+sticker
+ref_azuki_4__cmp0.png,ref_azuki_4.png,compound2,compound,duplicate,rot20+sticker
+ref_azuki_4__cmp1.png,ref_azuki_4.png,compound3,compound,duplicate,rs0.54+persp+jpeg62
+ref_azuki_4__cmp2.png,ref_azuki_4.png,compound3,compound,duplicate,sticker+border+crop0.13
+ref_azuki_4__cmp3.png,ref_azuki_4.png,compound3,compound,duplicate,jpeg46+rs0.50+persp
+ref_azuki_4__cmp4.png,ref_azuki_4.png,compound3,compound,duplicate,persp+rot5+hue37
+ref_azuki_4__cmp5.png,ref_azuki_4.png,compound3,compound,duplicate,rs0.71+border+hflip
+ref_azuki_5__cmp0.png,ref_azuki_5.png,compound2,compound,duplicate,border+hflip
+ref_azuki_5__cmp1.png,ref_azuki_5.png,compound3,compound,duplicate,jpeg44+persp+crop0.18
+ref_azuki_5__cmp2.png,ref_azuki_5.png,compound3,compound,duplicate,blur1.7+rot7+rs0.43
+ref_azuki_5__cmp3.png,ref_azuki_5.png,compound3,compound,duplicate,blur1.2+hflip+rot-20
+ref_azuki_5__cmp4.png,ref_azuki_5.png,compound2,compound,duplicate,persp+sticker
+ref_azuki_5__cmp5.png,ref_azuki_5.png,compound2,compound,duplicate,sticker+crop0.16
+ref_azuki_6__cmp0.png,ref_azuki_6.png,compound2,compound,duplicate,rot-10+hue-26
+ref_azuki_6__cmp1.png,ref_azuki_6.png,compound3,compound,duplicate,sticker+hflip+border
+ref_azuki_6__cmp2.png,ref_azuki_6.png,compound3,compound,duplicate,jpeg56+rot-5+rs0.46
+ref_azuki_6__cmp3.png,ref_azuki_6.png,compound3,compound,duplicate,rot-5+blur1.5+crop0.17
+ref_azuki_6__cmp4.png,ref_azuki_6.png,compound2,compound,duplicate,crop0.11+hflip
+ref_azuki_6__cmp5.png,ref_azuki_6.png,compound3,compound,duplicate,jpeg50+crop0.19+border
+ref_azuki_7__cmp0.png,ref_azuki_7.png,compound2,compound,duplicate,border+crop0.19
+ref_azuki_7__cmp1.png,ref_azuki_7.png,compound3,compound,duplicate,persp+blur1.3+rot19
+ref_azuki_7__cmp2.png,ref_azuki_7.png,compound2,compound,duplicate,jpeg75+blur1.1
+ref_azuki_7__cmp3.png,ref_azuki_7.png,compound3,compound,duplicate,crop0.15+rs0.68+blur2.4
+ref_azuki_7__cmp4.png,ref_azuki_7.png,compound3,compound,duplicate,rot-8+sticker+rs0.49
+ref_azuki_7__cmp5.png,ref_azuki_7.png,compound3,compound,duplicate,crop0.18+blur2.2+border
+ref_azuki_8__cmp0.png,ref_azuki_8.png,compound3,compound,duplicate,hflip+border+jpeg70
+ref_azuki_8__cmp1.png,ref_azuki_8.png,compound3,compound,duplicate,rs0.47+crop0.11+border
+ref_azuki_8__cmp2.png,ref_azuki_8.png,compound2,compound,duplicate,rot14+persp
+ref_azuki_8__cmp3.png,ref_azuki_8.png,compound3,compound,duplicate,rot-6+sticker+hflip
+ref_azuki_8__cmp4.png,ref_azuki_8.png,compound2,compound,duplicate,crop0.13+rot-20
+ref_azuki_8__cmp5.png,ref_azuki_8.png,compound2,compound,duplicate,blur1.7+rs0.61
+ref_azuki_9__cmp0.png,ref_azuki_9.png,compound3,compound,duplicate,rs0.58+hflip+rot22
+ref_azuki_9__cmp1.png,ref_azuki_9.png,compound2,compound,duplicate,hue-53+rs0.54
+ref_azuki_9__cmp2.png,ref_azuki_9.png,compound2,compound,duplicate,blur1.1+persp
+ref_azuki_9__cmp3.png,ref_azuki_9.png,compound3,compound,duplicate,rot-16+hflip+hue55
+ref_azuki_9__cmp4.png,ref_azuki_9.png,compound2,compound,duplicate,crop0.14+jpeg65
+ref_azuki_9__cmp5.png,ref_azuki_9.png,compound3,compound,duplicate,jpeg47+hue41+sticker
+ref_bored_ape_yacht_club_1__cmp0.png,ref_bored_ape_yacht_club_1.png,compound3,compound,duplicate,sticker+jpeg51+persp
+ref_bored_ape_yacht_club_1__cmp1.png,ref_bored_ape_yacht_club_1.png,compound3,compound,duplicate,hflip+crop0.19+border
+ref_bored_ape_yacht_club_1__cmp2.png,ref_bored_ape_yacht_club_1.png,compound3,compound,duplicate,persp+hue-16+sticker
+ref_bored_ape_yacht_club_1__cmp3.png,ref_bored_ape_yacht_club_1.png,compound3,compound,duplicate,hue-19+hflip+sticker
+ref_bored_ape_yacht_club_1__cmp4.png,ref_bored_ape_yacht_club_1.png,compound3,compound,duplicate,crop0.14+persp+jpeg46
+ref_bored_ape_yacht_club_1__cmp5.png,ref_bored_ape_yacht_club_1.png,compound3,compound,duplicate,hue-49+crop0.17+persp
+ref_bored_ape_yacht_club_10__cmp0.png,ref_bored_ape_yacht_club_10.png,compound2,compound,duplicate,crop0.14+jpeg46
+ref_bored_ape_yacht_club_10__cmp1.png,ref_bored_ape_yacht_club_10.png,compound2,compound,duplicate,blur1.9+hflip
+ref_bored_ape_yacht_club_10__cmp2.png,ref_bored_ape_yacht_club_10.png,compound3,compound,duplicate,crop0.14+hue47+jpeg66
+ref_bored_ape_yacht_club_10__cmp3.png,ref_bored_ape_yacht_club_10.png,compound2,compound,duplicate,persp+sticker
+ref_bored_ape_yacht_club_10__cmp4.png,ref_bored_ape_yacht_club_10.png,compound2,compound,duplicate,hflip+jpeg48
+ref_bored_ape_yacht_club_10__cmp5.png,ref_bored_ape_yacht_club_10.png,compound3,compound,duplicate,blur2.0+rot-19+crop0.15
+ref_bored_ape_yacht_club_2__cmp0.png,ref_bored_ape_yacht_club_2.png,compound2,compound,duplicate,rs0.51+hue-18
+ref_bored_ape_yacht_club_2__cmp1.png,ref_bored_ape_yacht_club_2.png,compound3,compound,duplicate,rot-15+hflip+jpeg41
+ref_bored_ape_yacht_club_2__cmp2.png,ref_bored_ape_yacht_club_2.png,compound3,compound,duplicate,jpeg50+hflip+crop0.13
+ref_bored_ape_yacht_club_2__cmp3.png,ref_bored_ape_yacht_club_2.png,compound3,compound,duplicate,hue-43+jpeg65+rot17
+ref_bored_ape_yacht_club_2__cmp4.png,ref_bored_ape_yacht_club_2.png,compound3,compound,duplicate,crop0.17+hue-21+sticker
+ref_bored_ape_yacht_club_2__cmp5.png,ref_bored_ape_yacht_club_2.png,compound2,compound,duplicate,rs0.70+hue-51
+ref_bored_ape_yacht_club_3__cmp0.png,ref_bored_ape_yacht_club_3.png,compound2,compound,duplicate,rs0.42+rot11
+ref_bored_ape_yacht_club_3__cmp1.png,ref_bored_ape_yacht_club_3.png,compound2,compound,duplicate,rs0.60+sticker
+ref_bored_ape_yacht_club_3__cmp2.png,ref_bored_ape_yacht_club_3.png,compound2,compound,duplicate,hue-22+crop0.16
+ref_bored_ape_yacht_club_3__cmp3.png,ref_bored_ape_yacht_club_3.png,compound2,compound,duplicate,border+hue-19
+ref_bored_ape_yacht_club_3__cmp4.png,ref_bored_ape_yacht_club_3.png,compound3,compound,duplicate,border+rs0.74+hflip
+ref_bored_ape_yacht_club_3__cmp5.png,ref_bored_ape_yacht_club_3.png,compound2,compound,duplicate,sticker+rot-14
+ref_bored_ape_yacht_club_4__cmp0.png,ref_bored_ape_yacht_club_4.png,compound3,compound,duplicate,rot6+hflip+rs0.74
+ref_bored_ape_yacht_club_4__cmp1.png,ref_bored_ape_yacht_club_4.png,compound3,compound,duplicate,rs0.76+rot10+blur1.6
+ref_bored_ape_yacht_club_4__cmp2.png,ref_bored_ape_yacht_club_4.png,compound2,compound,duplicate,rot12+jpeg64
+ref_bored_ape_yacht_club_4__cmp3.png,ref_bored_ape_yacht_club_4.png,compound2,compound,duplicate,sticker+jpeg55
+ref_bored_ape_yacht_club_4__cmp4.png,ref_bored_ape_yacht_club_4.png,compound3,compound,duplicate,persp+blur1.8+rot12
+ref_bored_ape_yacht_club_4__cmp5.png,ref_bored_ape_yacht_club_4.png,compound3,compound,duplicate,persp+sticker+border
+ref_bored_ape_yacht_club_5__cmp0.png,ref_bored_ape_yacht_club_5.png,compound2,compound,duplicate,jpeg54+hflip
+ref_bored_ape_yacht_club_5__cmp1.png,ref_bored_ape_yacht_club_5.png,compound2,compound,duplicate,crop0.11+hflip
+ref_bored_ape_yacht_club_5__cmp2.png,ref_bored_ape_yacht_club_5.png,compound2,compound,duplicate,persp+sticker
+ref_bored_ape_yacht_club_5__cmp3.png,ref_bored_ape_yacht_club_5.png,compound2,compound,duplicate,crop0.12+persp
+ref_bored_ape_yacht_club_5__cmp4.png,ref_bored_ape_yacht_club_5.png,compound3,compound,duplicate,jpeg60+rs0.59+rot6
+ref_bored_ape_yacht_club_5__cmp5.png,ref_bored_ape_yacht_club_5.png,compound2,compound,duplicate,sticker+jpeg62
+ref_bored_ape_yacht_club_6__cmp0.png,ref_bored_ape_yacht_club_6.png,compound3,compound,duplicate,persp+border+jpeg48
+ref_bored_ape_yacht_club_6__cmp1.png,ref_bored_ape_yacht_club_6.png,compound3,compound,duplicate,crop0.17+rs0.40+hue-18
+ref_bored_ape_yacht_club_6__cmp2.png,ref_bored_ape_yacht_club_6.png,compound2,compound,duplicate,persp+rs0.78
+ref_bored_ape_yacht_club_6__cmp3.png,ref_bored_ape_yacht_club_6.png,compound2,compound,duplicate,persp+hflip
+ref_bored_ape_yacht_club_6__cmp4.png,ref_bored_ape_yacht_club_6.png,compound2,compound,duplicate,rot-8+sticker
+ref_bored_ape_yacht_club_6__cmp5.png,ref_bored_ape_yacht_club_6.png,compound3,compound,duplicate,rot16+blur2.2+border
+ref_bored_ape_yacht_club_7__cmp0.png,ref_bored_ape_yacht_club_7.png,compound2,compound,duplicate,persp+hflip
+ref_bored_ape_yacht_club_7__cmp1.png,ref_bored_ape_yacht_club_7.png,compound2,compound,duplicate,persp+jpeg42
+ref_bored_ape_yacht_club_7__cmp2.png,ref_bored_ape_yacht_club_7.png,compound3,compound,duplicate,border+hue-29+persp
+ref_bored_ape_yacht_club_7__cmp3.png,ref_bored_ape_yacht_club_7.png,compound3,compound,duplicate,sticker+hflip+rot-11
+ref_bored_ape_yacht_club_7__cmp4.png,ref_bored_ape_yacht_club_7.png,compound3,compound,duplicate,rs0.74+jpeg53+hue36
+ref_bored_ape_yacht_club_7__cmp5.png,ref_bored_ape_yacht_club_7.png,compound2,compound,duplicate,hue-56+crop0.13
+ref_bored_ape_yacht_club_8__cmp0.png,ref_bored_ape_yacht_club_8.png,compound3,compound,duplicate,persp+jpeg48+hue46
+ref_bored_ape_yacht_club_8__cmp1.png,ref_bored_ape_yacht_club_8.png,compound2,compound,duplicate,crop0.17+hflip
+ref_bored_ape_yacht_club_8__cmp2.png,ref_bored_ape_yacht_club_8.png,compound3,compound,duplicate,hflip+blur1.4+hue-30
+ref_bored_ape_yacht_club_8__cmp3.png,ref_bored_ape_yacht_club_8.png,compound3,compound,duplicate,sticker+rot17+persp
+ref_bored_ape_yacht_club_8__cmp4.png,ref_bored_ape_yacht_club_8.png,compound3,compound,duplicate,rs0.78+rot16+border
+ref_bored_ape_yacht_club_8__cmp5.png,ref_bored_ape_yacht_club_8.png,compound3,compound,duplicate,rot14+jpeg57+rs0.58
+ref_bored_ape_yacht_club_9__cmp0.png,ref_bored_ape_yacht_club_9.png,compound2,compound,duplicate,sticker+blur1.8
+ref_bored_ape_yacht_club_9__cmp1.png,ref_bored_ape_yacht_club_9.png,compound2,compound,duplicate,blur1.3+border
+ref_bored_ape_yacht_club_9__cmp2.png,ref_bored_ape_yacht_club_9.png,compound3,compound,duplicate,jpeg42+sticker+rot22
+ref_bored_ape_yacht_club_9__cmp3.png,ref_bored_ape_yacht_club_9.png,compound2,compound,duplicate,hue-44+rot7
+ref_bored_ape_yacht_club_9__cmp4.png,ref_bored_ape_yacht_club_9.png,compound3,compound,duplicate,crop0.14+sticker+hue-28
+ref_bored_ape_yacht_club_9__cmp5.png,ref_bored_ape_yacht_club_9.png,compound2,compound,duplicate,blur1.7+rot-21
+ref_doodles_1__cmp0.png,ref_doodles_1.png,compound2,compound,duplicate,crop0.15+hflip
+ref_doodles_1__cmp1.png,ref_doodles_1.png,compound2,compound,duplicate,rs0.76+hue54
+ref_doodles_1__cmp2.png,ref_doodles_1.png,compound2,compound,duplicate,sticker+crop0.18
+ref_doodles_1__cmp3.png,ref_doodles_1.png,compound3,compound,duplicate,persp+hflip+hue38
+ref_doodles_1__cmp4.png,ref_doodles_1.png,compound3,compound,duplicate,crop0.16+hflip+sticker
+ref_doodles_1__cmp5.png,ref_doodles_1.png,compound3,compound,duplicate,jpeg72+rot25+sticker
+ref_doodles_10__cmp0.png,ref_doodles_10.png,compound3,compound,duplicate,persp+hue31+rot-11
+ref_doodles_10__cmp1.png,ref_doodles_10.png,compound3,compound,duplicate,persp+sticker+crop0.17
+ref_doodles_10__cmp2.png,ref_doodles_10.png,compound3,compound,duplicate,jpeg67+crop0.19+sticker
+ref_doodles_10__cmp3.png,ref_doodles_10.png,compound2,compound,duplicate,sticker+blur1.2
+ref_doodles_10__cmp4.png,ref_doodles_10.png,compound2,compound,duplicate,crop0.14+persp
+ref_doodles_10__cmp5.png,ref_doodles_10.png,compound2,compound,duplicate,jpeg46+blur1.7
+ref_doodles_2__cmp0.png,ref_doodles_2.png,compound2,compound,duplicate,rot16+rs0.41
+ref_doodles_2__cmp1.png,ref_doodles_2.png,compound3,compound,duplicate,blur1.2+rs0.46+border
+ref_doodles_2__cmp2.png,ref_doodles_2.png,compound3,compound,duplicate,rs0.66+hue29+jpeg45
+ref_doodles_2__cmp3.png,ref_doodles_2.png,compound3,compound,duplicate,persp+blur2.1+border
+ref_doodles_2__cmp4.png,ref_doodles_2.png,compound2,compound,duplicate,jpeg45+crop0.13
+ref_doodles_2__cmp5.png,ref_doodles_2.png,compound3,compound,duplicate,blur2.2+hflip+persp
+ref_doodles_3__cmp0.png,ref_doodles_3.png,compound2,compound,duplicate,jpeg60+rot-11
+ref_doodles_3__cmp1.png,ref_doodles_3.png,compound3,compound,duplicate,sticker+blur1.9+rs0.78
+ref_doodles_3__cmp2.png,ref_doodles_3.png,compound3,compound,duplicate,crop0.12+hflip+jpeg42
+ref_doodles_3__cmp3.png,ref_doodles_3.png,compound3,compound,duplicate,rs0.53+persp+hue50
+ref_doodles_3__cmp4.png,ref_doodles_3.png,compound2,compound,duplicate,jpeg67+rot12
+ref_doodles_3__cmp5.png,ref_doodles_3.png,compound3,compound,duplicate,rot-12+jpeg69+persp
+ref_doodles_4__cmp0.png,ref_doodles_4.png,compound2,compound,duplicate,rot12+border
+ref_doodles_4__cmp1.png,ref_doodles_4.png,compound2,compound,duplicate,sticker+crop0.16
+ref_doodles_4__cmp2.png,ref_doodles_4.png,compound3,compound,duplicate,persp+rs0.48+rot7
+ref_doodles_4__cmp3.png,ref_doodles_4.png,compound3,compound,duplicate,hue-55+hflip+rot5
+ref_doodles_4__cmp4.png,ref_doodles_4.png,compound2,compound,duplicate,persp+rs0.60
+ref_doodles_4__cmp5.png,ref_doodles_4.png,compound3,compound,duplicate,sticker+hue44+blur1.6
+ref_doodles_5__cmp0.png,ref_doodles_5.png,compound3,compound,duplicate,hflip+rot-23+sticker
+ref_doodles_5__cmp1.png,ref_doodles_5.png,compound2,compound,duplicate,sticker+hue46
+ref_doodles_5__cmp2.png,ref_doodles_5.png,compound3,compound,duplicate,hue-52+hflip+sticker
+ref_doodles_5__cmp3.png,ref_doodles_5.png,compound2,compound,duplicate,hflip+persp
+ref_doodles_5__cmp4.png,ref_doodles_5.png,compound2,compound,duplicate,sticker+jpeg50
+ref_doodles_5__cmp5.png,ref_doodles_5.png,compound2,compound,duplicate,sticker+hue-34
+ref_doodles_6__cmp0.png,ref_doodles_6.png,compound2,compound,duplicate,sticker+hflip
+ref_doodles_6__cmp1.png,ref_doodles_6.png,compound3,compound,duplicate,crop0.20+rs0.64+jpeg63
+ref_doodles_6__cmp2.png,ref_doodles_6.png,compound3,compound,duplicate,rot22+border+hue-22
+ref_doodles_6__cmp3.png,ref_doodles_6.png,compound3,compound,duplicate,rot-22+rs0.80+sticker
+ref_doodles_6__cmp4.png,ref_doodles_6.png,compound3,compound,duplicate,hflip+sticker+crop0.11
+ref_doodles_6__cmp5.png,ref_doodles_6.png,compound3,compound,duplicate,hue49+border+rot6
+ref_doodles_7__cmp0.png,ref_doodles_7.png,compound2,compound,duplicate,persp+rot12
+ref_doodles_7__cmp1.png,ref_doodles_7.png,compound2,compound,duplicate,rot22+jpeg61
+ref_doodles_7__cmp2.png,ref_doodles_7.png,compound3,compound,duplicate,hue45+blur1.8+rs0.46
+ref_doodles_7__cmp3.png,ref_doodles_7.png,compound3,compound,duplicate,sticker+persp+crop0.14
+ref_doodles_7__cmp4.png,ref_doodles_7.png,compound3,compound,duplicate,hflip+border+sticker
+ref_doodles_7__cmp5.png,ref_doodles_7.png,compound2,compound,duplicate,rot-13+jpeg65
+ref_doodles_8__cmp0.png,ref_doodles_8.png,compound3,compound,duplicate,persp+sticker+crop0.13
+ref_doodles_8__cmp1.png,ref_doodles_8.png,compound3,compound,duplicate,blur2.2+border+rs0.58
+ref_doodles_8__cmp2.png,ref_doodles_8.png,compound2,compound,duplicate,hflip+rs0.49
+ref_doodles_8__cmp3.png,ref_doodles_8.png,compound2,compound,duplicate,persp+border
+ref_doodles_8__cmp4.png,ref_doodles_8.png,compound3,compound,duplicate,border+hflip+crop0.20
+ref_doodles_8__cmp5.png,ref_doodles_8.png,compound3,compound,duplicate,hue52+sticker+jpeg41
+ref_doodles_9__cmp0.png,ref_doodles_9.png,compound2,compound,duplicate,blur1.4+rot-12
+ref_doodles_9__cmp1.png,ref_doodles_9.png,compound2,compound,duplicate,rs0.79+crop0.13
+ref_doodles_9__cmp2.png,ref_doodles_9.png,compound2,compound,duplicate,hue-38+hflip
+ref_doodles_9__cmp3.png,ref_doodles_9.png,compound2,compound,duplicate,hue-19+crop0.12
+ref_doodles_9__cmp4.png,ref_doodles_9.png,compound2,compound,duplicate,rot-6+rs0.41
+ref_doodles_9__cmp5.png,ref_doodles_9.png,compound2,compound,duplicate,hflip+crop0.10
+ref_loot_1__cmp0.png,ref_loot_1.png,compound2,compound,duplicate,hflip+border
+ref_loot_1__cmp1.png,ref_loot_1.png,compound3,compound,duplicate,rot-15+crop0.10+persp
+ref_loot_1__cmp2.png,ref_loot_1.png,compound3,compound,duplicate,jpeg59+border+crop0.18
+ref_loot_1__cmp3.png,ref_loot_1.png,compound2,compound,duplicate,hflip+crop0.14
+ref_loot_1__cmp4.png,ref_loot_1.png,compound2,compound,duplicate,border+crop0.14
+ref_loot_1__cmp5.png,ref_loot_1.png,compound3,compound,duplicate,persp+hflip+rs0.47
+ref_loot_10__cmp0.png,ref_loot_10.png,compound2,compound,duplicate,border+rs0.48
+ref_loot_10__cmp1.png,ref_loot_10.png,compound3,compound,duplicate,border+sticker+blur1.3
+ref_loot_10__cmp2.png,ref_loot_10.png,compound2,compound,duplicate,crop0.17+persp
+ref_loot_10__cmp3.png,ref_loot_10.png,compound3,compound,duplicate,sticker+jpeg58+rs0.45
+ref_loot_10__cmp4.png,ref_loot_10.png,compound3,compound,duplicate,rs0.66+sticker+persp
+ref_loot_10__cmp5.png,ref_loot_10.png,compound2,compound,duplicate,border+persp
+ref_loot_2__cmp0.png,ref_loot_2.png,compound3,compound,duplicate,blur1.2+border+jpeg70
+ref_loot_2__cmp1.png,ref_loot_2.png,compound2,compound,duplicate,blur2.0+rot22
+ref_loot_2__cmp2.png,ref_loot_2.png,compound3,compound,duplicate,border+sticker+crop0.15
+ref_loot_2__cmp3.png,ref_loot_2.png,compound2,compound,duplicate,rot-25+jpeg69
+ref_loot_2__cmp4.png,ref_loot_2.png,compound2,compound,duplicate,blur2.4+border
+ref_loot_2__cmp5.png,ref_loot_2.png,compound2,compound,duplicate,blur1.3+crop0.19
+ref_loot_3__cmp0.png,ref_loot_3.png,compound3,compound,duplicate,hue36+border+jpeg60
+ref_loot_3__cmp1.png,ref_loot_3.png,compound2,compound,duplicate,blur1.1+rs0.72
+ref_loot_3__cmp2.png,ref_loot_3.png,compound3,compound,duplicate,rot-5+sticker+crop0.11
+ref_loot_3__cmp3.png,ref_loot_3.png,compound2,compound,duplicate,rs0.59+rot19
+ref_loot_3__cmp4.png,ref_loot_3.png,compound3,compound,duplicate,border+crop0.16+persp
+ref_loot_3__cmp5.png,ref_loot_3.png,compound3,compound,duplicate,rot10+persp+rs0.77
+ref_loot_4__cmp0.png,ref_loot_4.png,compound3,compound,duplicate,hflip+persp+border
+ref_loot_4__cmp1.png,ref_loot_4.png,compound3,compound,duplicate,persp+crop0.13+blur1.3
+ref_loot_4__cmp2.png,ref_loot_4.png,compound2,compound,duplicate,rs0.60+hflip
+ref_loot_4__cmp3.png,ref_loot_4.png,compound3,compound,duplicate,hflip+border+persp
+ref_loot_4__cmp4.png,ref_loot_4.png,compound2,compound,duplicate,rot-15+crop0.18
+ref_loot_4__cmp5.png,ref_loot_4.png,compound3,compound,duplicate,crop0.15+blur1.0+sticker
+ref_loot_5__cmp0.png,ref_loot_5.png,compound2,compound,duplicate,hue-32+rot15
+ref_loot_5__cmp1.png,ref_loot_5.png,compound2,compound,duplicate,blur2.3+hflip
+ref_loot_5__cmp2.png,ref_loot_5.png,compound3,compound,duplicate,sticker+rot-19+jpeg58
+ref_loot_5__cmp3.png,ref_loot_5.png,compound3,compound,duplicate,hflip+blur1.8+rs0.44
+ref_loot_5__cmp4.png,ref_loot_5.png,compound3,compound,duplicate,crop0.11+sticker+hflip
+ref_loot_5__cmp5.png,ref_loot_5.png,compound2,compound,duplicate,rs0.49+crop0.11
+ref_loot_6__cmp0.png,ref_loot_6.png,compound2,compound,duplicate,jpeg40+hue-37
+ref_loot_6__cmp1.png,ref_loot_6.png,compound3,compound,duplicate,rs0.54+persp+jpeg75
+ref_loot_6__cmp2.png,ref_loot_6.png,compound3,compound,duplicate,rs0.69+sticker+crop0.17
+ref_loot_6__cmp3.png,ref_loot_6.png,compound2,compound,duplicate,rot8+persp
+ref_loot_6__cmp4.png,ref_loot_6.png,compound2,compound,duplicate,hflip+crop0.20
+ref_loot_6__cmp5.png,ref_loot_6.png,compound3,compound,duplicate,jpeg53+crop0.17+rot-20
+ref_loot_7__cmp0.png,ref_loot_7.png,compound3,compound,duplicate,rs0.45+hflip+rot-8
+ref_loot_7__cmp1.png,ref_loot_7.png,compound2,compound,duplicate,rs0.74+sticker
+ref_loot_7__cmp2.png,ref_loot_7.png,compound2,compound,duplicate,blur1.1+rs0.55
+ref_loot_7__cmp3.png,ref_loot_7.png,compound3,compound,duplicate,jpeg58+blur1.6+hflip
+ref_loot_7__cmp4.png,ref_loot_7.png,compound3,compound,duplicate,persp+border+hflip
+ref_loot_7__cmp5.png,ref_loot_7.png,compound3,compound,duplicate,hue-44+blur1.0+rs0.62
+ref_loot_8__cmp0.png,ref_loot_8.png,compound3,compound,duplicate,persp+crop0.16+blur1.1
+ref_loot_8__cmp1.png,ref_loot_8.png,compound3,compound,duplicate,blur1.1+rs0.72+jpeg45
+ref_loot_8__cmp2.png,ref_loot_8.png,compound2,compound,duplicate,jpeg59+rot15
+ref_loot_8__cmp3.png,ref_loot_8.png,compound2,compound,duplicate,sticker+blur2.0
+ref_loot_8__cmp4.png,ref_loot_8.png,compound2,compound,duplicate,rot17+hflip
+ref_loot_8__cmp5.png,ref_loot_8.png,compound2,compound,duplicate,border+persp
+ref_loot_9__cmp0.png,ref_loot_9.png,compound2,compound,duplicate,jpeg54+crop0.17
+ref_loot_9__cmp1.png,ref_loot_9.png,compound2,compound,duplicate,jpeg50+border
+ref_loot_9__cmp2.png,ref_loot_9.png,compound2,compound,duplicate,blur2.5+hue-49
+ref_loot_9__cmp3.png,ref_loot_9.png,compound2,compound,duplicate,blur2.3+border
+ref_loot_9__cmp4.png,ref_loot_9.png,compound3,compound,duplicate,blur1.0+crop0.17+jpeg44
+ref_loot_9__cmp5.png,ref_loot_9.png,compound2,compound,duplicate,rot-6+border
+ref_meebits_1__cmp0.png,ref_meebits_1.png,compound3,compound,duplicate,crop0.15+rs0.44+hflip
+ref_meebits_1__cmp1.png,ref_meebits_1.png,compound2,compound,duplicate,crop0.17+sticker
+ref_meebits_1__cmp2.png,ref_meebits_1.png,compound3,compound,duplicate,rs0.67+persp+blur1.1
+ref_meebits_1__cmp3.png,ref_meebits_1.png,compound2,compound,duplicate,jpeg67+crop0.17
+ref_meebits_1__cmp4.png,ref_meebits_1.png,compound3,compound,duplicate,blur1.8+jpeg56+hflip
+ref_meebits_1__cmp5.png,ref_meebits_1.png,compound2,compound,duplicate,sticker+rot-9
+ref_meebits_2__cmp0.png,ref_meebits_2.png,compound3,compound,duplicate,rs0.61+rot-21+sticker
+ref_meebits_2__cmp1.png,ref_meebits_2.png,compound3,compound,duplicate,blur1.5+border+crop0.12
+ref_meebits_2__cmp2.png,ref_meebits_2.png,compound3,compound,duplicate,hue34+border+hflip
+ref_meebits_2__cmp3.png,ref_meebits_2.png,compound2,compound,duplicate,hflip+border
+ref_meebits_2__cmp4.png,ref_meebits_2.png,compound3,compound,duplicate,hue-51+border+rs0.78
+ref_meebits_2__cmp5.png,ref_meebits_2.png,compound3,compound,duplicate,blur1.8+jpeg64+persp
+ref_meebits_3__cmp0.png,ref_meebits_3.png,compound3,compound,duplicate,crop0.18+rs0.55+border
+ref_meebits_3__cmp1.png,ref_meebits_3.png,compound3,compound,duplicate,rot24+hflip+jpeg52
+ref_meebits_3__cmp2.png,ref_meebits_3.png,compound3,compound,duplicate,hflip+blur1.3+hue-40
+ref_meebits_3__cmp3.png,ref_meebits_3.png,compound2,compound,duplicate,rot10+crop0.17
+ref_meebits_3__cmp4.png,ref_meebits_3.png,compound2,compound,duplicate,rot25+sticker
+ref_meebits_3__cmp5.png,ref_meebits_3.png,compound2,compound,duplicate,hflip+crop0.13
+ref_meebits_4__cmp0.png,ref_meebits_4.png,compound3,compound,duplicate,border+rot-14+jpeg60
+ref_meebits_4__cmp1.png,ref_meebits_4.png,compound3,compound,duplicate,rot-9+crop0.18+sticker
+ref_meebits_4__cmp2.png,ref_meebits_4.png,compound3,compound,duplicate,border+hue48+sticker
+ref_meebits_4__cmp3.png,ref_meebits_4.png,compound3,compound,duplicate,crop0.19+rs0.53+blur2.2
+ref_meebits_4__cmp4.png,ref_meebits_4.png,compound3,compound,duplicate,crop0.20+jpeg71+sticker
+ref_meebits_4__cmp5.png,ref_meebits_4.png,compound2,compound,duplicate,hflip+persp
+ref_meebits_5__cmp0.png,ref_meebits_5.png,compound2,compound,duplicate,persp+rs0.54
+ref_meebits_5__cmp1.png,ref_meebits_5.png,compound3,compound,duplicate,blur2.4+rs0.66+persp
+ref_meebits_5__cmp2.png,ref_meebits_5.png,compound3,compound,duplicate,hue48+rs0.47+border
+ref_meebits_5__cmp3.png,ref_meebits_5.png,compound3,compound,duplicate,hue50+sticker+blur1.8
+ref_meebits_5__cmp4.png,ref_meebits_5.png,compound2,compound,duplicate,blur1.3+hflip
+ref_meebits_5__cmp5.png,ref_meebits_5.png,compound2,compound,duplicate,border+rs0.75
+ref_moonbirds_1__cmp0.png,ref_moonbirds_1.png,compound2,compound,duplicate,hue-36+border
+ref_moonbirds_1__cmp1.png,ref_moonbirds_1.png,compound2,compound,duplicate,border+persp
+ref_moonbirds_1__cmp2.png,ref_moonbirds_1.png,compound3,compound,duplicate,hflip+hue-19+sticker
+ref_moonbirds_1__cmp3.png,ref_moonbirds_1.png,compound3,compound,duplicate,rot11+hue16+persp
+ref_moonbirds_1__cmp4.png,ref_moonbirds_1.png,compound3,compound,duplicate,crop0.13+persp+rs0.50
+ref_moonbirds_1__cmp5.png,ref_moonbirds_1.png,compound3,compound,duplicate,crop0.14+blur1.3+persp
+ref_moonbirds_10__cmp0.png,ref_moonbirds_10.png,compound2,compound,duplicate,crop0.18+sticker
+ref_moonbirds_10__cmp1.png,ref_moonbirds_10.png,compound3,compound,duplicate,jpeg69+hflip+border
+ref_moonbirds_10__cmp2.png,ref_moonbirds_10.png,compound3,compound,duplicate,border+sticker+jpeg70
+ref_moonbirds_10__cmp3.png,ref_moonbirds_10.png,compound2,compound,duplicate,border+sticker
+ref_moonbirds_10__cmp4.png,ref_moonbirds_10.png,compound3,compound,duplicate,persp+border+rs0.63
+ref_moonbirds_10__cmp5.png,ref_moonbirds_10.png,compound3,compound,duplicate,persp+hue-52+border
+ref_moonbirds_2__cmp0.png,ref_moonbirds_2.png,compound2,compound,duplicate,border+sticker
+ref_moonbirds_2__cmp1.png,ref_moonbirds_2.png,compound3,compound,duplicate,blur1.7+jpeg68+rs0.69
+ref_moonbirds_2__cmp2.png,ref_moonbirds_2.png,compound3,compound,duplicate,persp+border+rot-16
+ref_moonbirds_2__cmp3.png,ref_moonbirds_2.png,compound3,compound,duplicate,rs0.41+persp+sticker
+ref_moonbirds_2__cmp4.png,ref_moonbirds_2.png,compound3,compound,duplicate,border+persp+sticker
+ref_moonbirds_2__cmp5.png,ref_moonbirds_2.png,compound3,compound,duplicate,jpeg65+crop0.14+blur1.8
+ref_moonbirds_3__cmp0.png,ref_moonbirds_3.png,compound3,compound,duplicate,hflip+border+rs0.50
+ref_moonbirds_3__cmp1.png,ref_moonbirds_3.png,compound3,compound,duplicate,rot-11+hflip+jpeg61
+ref_moonbirds_3__cmp2.png,ref_moonbirds_3.png,compound3,compound,duplicate,blur1.8+crop0.19+rot-13
+ref_moonbirds_3__cmp3.png,ref_moonbirds_3.png,compound3,compound,duplicate,rot-17+hue-38+jpeg70
+ref_moonbirds_3__cmp4.png,ref_moonbirds_3.png,compound3,compound,duplicate,hflip+sticker+border
+ref_moonbirds_3__cmp5.png,ref_moonbirds_3.png,compound3,compound,duplicate,crop0.17+hue45+persp
+ref_moonbirds_4__cmp0.png,ref_moonbirds_4.png,compound2,compound,duplicate,persp+crop0.20
+ref_moonbirds_4__cmp1.png,ref_moonbirds_4.png,compound3,compound,duplicate,rot-7+blur1.5+hflip
+ref_moonbirds_4__cmp2.png,ref_moonbirds_4.png,compound2,compound,duplicate,hflip+border
+ref_moonbirds_4__cmp3.png,ref_moonbirds_4.png,compound3,compound,duplicate,blur2.2+border+hue28
+ref_moonbirds_4__cmp4.png,ref_moonbirds_4.png,compound3,compound,duplicate,hflip+crop0.16+jpeg47
+ref_moonbirds_4__cmp5.png,ref_moonbirds_4.png,compound2,compound,duplicate,rot14+jpeg70
+ref_moonbirds_5__cmp0.png,ref_moonbirds_5.png,compound3,compound,duplicate,sticker+hue41+rs0.67
+ref_moonbirds_5__cmp1.png,ref_moonbirds_5.png,compound3,compound,duplicate,rs0.51+sticker+hue59
+ref_moonbirds_5__cmp2.png,ref_moonbirds_5.png,compound3,compound,duplicate,blur2.5+persp+hflip
+ref_moonbirds_5__cmp3.png,ref_moonbirds_5.png,compound3,compound,duplicate,persp+jpeg59+sticker
+ref_moonbirds_5__cmp4.png,ref_moonbirds_5.png,compound3,compound,duplicate,sticker+blur1.6+jpeg59
+ref_moonbirds_5__cmp5.png,ref_moonbirds_5.png,compound2,compound,duplicate,hue16+jpeg46
+ref_moonbirds_6__cmp0.png,ref_moonbirds_6.png,compound3,compound,duplicate,persp+jpeg69+border
+ref_moonbirds_6__cmp1.png,ref_moonbirds_6.png,compound3,compound,duplicate,jpeg48+hflip+hue52
+ref_moonbirds_6__cmp2.png,ref_moonbirds_6.png,compound3,compound,duplicate,crop0.17+blur2.4+hue34
+ref_moonbirds_6__cmp3.png,ref_moonbirds_6.png,compound2,compound,duplicate,rs0.47+blur1.0
+ref_moonbirds_6__cmp4.png,ref_moonbirds_6.png,compound2,compound,duplicate,border+hflip
+ref_moonbirds_6__cmp5.png,ref_moonbirds_6.png,compound2,compound,duplicate,persp+hflip
+ref_moonbirds_7__cmp0.png,ref_moonbirds_7.png,compound3,compound,duplicate,blur1.6+hflip+sticker
+ref_moonbirds_7__cmp1.png,ref_moonbirds_7.png,compound3,compound,duplicate,rot-16+crop0.17+jpeg45
+ref_moonbirds_7__cmp2.png,ref_moonbirds_7.png,compound2,compound,duplicate,crop0.12+border
+ref_moonbirds_7__cmp3.png,ref_moonbirds_7.png,compound2,compound,duplicate,hue38+rot-25
+ref_moonbirds_7__cmp4.png,ref_moonbirds_7.png,compound2,compound,duplicate,rot17+persp
+ref_moonbirds_7__cmp5.png,ref_moonbirds_7.png,compound2,compound,duplicate,crop0.19+jpeg63
+ref_moonbirds_8__cmp0.png,ref_moonbirds_8.png,compound3,compound,duplicate,hue-45+blur1.5+border
+ref_moonbirds_8__cmp1.png,ref_moonbirds_8.png,compound3,compound,duplicate,hflip+rot9+jpeg65
+ref_moonbirds_8__cmp2.png,ref_moonbirds_8.png,compound3,compound,duplicate,rot5+persp+hue51
+ref_moonbirds_8__cmp3.png,ref_moonbirds_8.png,compound2,compound,duplicate,sticker+rs0.76
+ref_moonbirds_8__cmp4.png,ref_moonbirds_8.png,compound2,compound,duplicate,hflip+persp
+ref_moonbirds_8__cmp5.png,ref_moonbirds_8.png,compound3,compound,duplicate,crop0.11+jpeg67+sticker
+ref_moonbirds_9__cmp0.png,ref_moonbirds_9.png,compound2,compound,duplicate,hue-31+rot25
+ref_moonbirds_9__cmp1.png,ref_moonbirds_9.png,compound2,compound,duplicate,rot23+sticker
+ref_moonbirds_9__cmp2.png,ref_moonbirds_9.png,compound3,compound,duplicate,crop0.10+jpeg51+hflip
+ref_moonbirds_9__cmp3.png,ref_moonbirds_9.png,compound3,compound,duplicate,sticker+hflip+rot-8
+ref_moonbirds_9__cmp4.png,ref_moonbirds_9.png,compound3,compound,duplicate,sticker+rs0.48+border
+ref_moonbirds_9__cmp5.png,ref_moonbirds_9.png,compound2,compound,duplicate,hflip+border
+ref_nouns_1__cmp0.png,ref_nouns_1.png,compound2,compound,duplicate,blur2.0+rot14
+ref_nouns_1__cmp1.png,ref_nouns_1.png,compound2,compound,duplicate,persp+rs0.77
+ref_nouns_1__cmp2.png,ref_nouns_1.png,compound2,compound,duplicate,blur1.1+persp
+ref_nouns_1__cmp3.png,ref_nouns_1.png,compound3,compound,duplicate,persp+sticker+blur1.9
+ref_nouns_1__cmp4.png,ref_nouns_1.png,compound2,compound,duplicate,hue-42+border
+ref_nouns_1__cmp5.png,ref_nouns_1.png,compound2,compound,duplicate,persp+rot11
+ref_nouns_10__cmp0.png,ref_nouns_10.png,compound3,compound,duplicate,hue-38+rot20+rs0.44
+ref_nouns_10__cmp1.png,ref_nouns_10.png,compound3,compound,duplicate,rot-17+hflip+jpeg44
+ref_nouns_10__cmp2.png,ref_nouns_10.png,compound3,compound,duplicate,crop0.11+hflip+rot25
+ref_nouns_10__cmp3.png,ref_nouns_10.png,compound3,compound,duplicate,blur1.4+persp+hue41
+ref_nouns_10__cmp4.png,ref_nouns_10.png,compound3,compound,duplicate,border+jpeg51+sticker
+ref_nouns_10__cmp5.png,ref_nouns_10.png,compound3,compound,duplicate,border+sticker+jpeg55
+ref_nouns_2__cmp0.png,ref_nouns_2.png,compound2,compound,duplicate,hue-59+rot-20
+ref_nouns_2__cmp1.png,ref_nouns_2.png,compound2,compound,duplicate,jpeg51+border
+ref_nouns_2__cmp2.png,ref_nouns_2.png,compound3,compound,duplicate,jpeg63+rot9+persp
+ref_nouns_2__cmp3.png,ref_nouns_2.png,compound3,compound,duplicate,rs0.74+blur1.5+border
+ref_nouns_2__cmp4.png,ref_nouns_2.png,compound3,compound,duplicate,rot-9+rs0.43+hue58
+ref_nouns_2__cmp5.png,ref_nouns_2.png,compound3,compound,duplicate,rot13+blur1.3+jpeg48
+ref_nouns_3__cmp0.png,ref_nouns_3.png,compound2,compound,duplicate,jpeg41+hflip
+ref_nouns_3__cmp1.png,ref_nouns_3.png,compound2,compound,duplicate,sticker+crop0.12
+ref_nouns_3__cmp2.png,ref_nouns_3.png,compound2,compound,duplicate,border+sticker
+ref_nouns_3__cmp3.png,ref_nouns_3.png,compound3,compound,duplicate,rs0.77+sticker+persp
+ref_nouns_3__cmp4.png,ref_nouns_3.png,compound3,compound,duplicate,rs0.75+hflip+hue24
+ref_nouns_3__cmp5.png,ref_nouns_3.png,compound3,compound,duplicate,blur2.1+sticker+hue-59
+ref_nouns_4__cmp0.png,ref_nouns_4.png,compound3,compound,duplicate,jpeg47+border+sticker
+ref_nouns_4__cmp1.png,ref_nouns_4.png,compound2,compound,duplicate,jpeg59+hue-24
+ref_nouns_4__cmp2.png,ref_nouns_4.png,compound3,compound,duplicate,hflip+blur2.2+rot15
+ref_nouns_4__cmp3.png,ref_nouns_4.png,compound3,compound,duplicate,jpeg46+blur1.9+hflip
+ref_nouns_4__cmp4.png,ref_nouns_4.png,compound2,compound,duplicate,rs0.46+hflip
+ref_nouns_4__cmp5.png,ref_nouns_4.png,compound2,compound,duplicate,rs0.50+border
+ref_nouns_5__cmp0.png,ref_nouns_5.png,compound3,compound,duplicate,rs0.51+border+rot18
+ref_nouns_5__cmp1.png,ref_nouns_5.png,compound3,compound,duplicate,sticker+persp+rot23
+ref_nouns_5__cmp2.png,ref_nouns_5.png,compound3,compound,duplicate,jpeg74+persp+rot19
+ref_nouns_5__cmp3.png,ref_nouns_5.png,compound2,compound,duplicate,sticker+hue-53
+ref_nouns_5__cmp4.png,ref_nouns_5.png,compound2,compound,duplicate,rot-20+hflip
+ref_nouns_5__cmp5.png,ref_nouns_5.png,compound3,compound,duplicate,sticker+hue-51+rot15
+ref_nouns_6__cmp0.png,ref_nouns_6.png,compound2,compound,duplicate,blur1.0+jpeg67
+ref_nouns_6__cmp1.png,ref_nouns_6.png,compound2,compound,duplicate,rot20+hue-55
+ref_nouns_6__cmp2.png,ref_nouns_6.png,compound2,compound,duplicate,sticker+hue-16
+ref_nouns_6__cmp3.png,ref_nouns_6.png,compound3,compound,duplicate,border+persp+sticker
+ref_nouns_6__cmp4.png,ref_nouns_6.png,compound3,compound,duplicate,blur2.3+rot19+sticker
+ref_nouns_6__cmp5.png,ref_nouns_6.png,compound2,compound,duplicate,sticker+crop0.15
+ref_nouns_7__cmp0.png,ref_nouns_7.png,compound2,compound,duplicate,border+jpeg75
+ref_nouns_7__cmp1.png,ref_nouns_7.png,compound2,compound,duplicate,blur2.3+hflip
+ref_nouns_7__cmp2.png,ref_nouns_7.png,compound2,compound,duplicate,border+blur1.1
+ref_nouns_7__cmp3.png,ref_nouns_7.png,compound3,compound,duplicate,jpeg55+crop0.11+blur1.4
+ref_nouns_7__cmp4.png,ref_nouns_7.png,compound2,compound,duplicate,sticker+blur1.7
+ref_nouns_7__cmp5.png,ref_nouns_7.png,compound3,compound,duplicate,rs0.63+blur1.3+sticker
+ref_nouns_8__cmp0.png,ref_nouns_8.png,compound2,compound,duplicate,sticker+rot6
+ref_nouns_8__cmp1.png,ref_nouns_8.png,compound3,compound,duplicate,persp+border+crop0.11
+ref_nouns_8__cmp2.png,ref_nouns_8.png,compound2,compound,duplicate,border+persp
+ref_nouns_8__cmp3.png,ref_nouns_8.png,compound3,compound,duplicate,hflip+border+jpeg68
+ref_nouns_8__cmp4.png,ref_nouns_8.png,compound3,compound,duplicate,sticker+crop0.17+border
+ref_nouns_8__cmp5.png,ref_nouns_8.png,compound2,compound,duplicate,jpeg69+rot9
+ref_nouns_9__cmp0.png,ref_nouns_9.png,compound2,compound,duplicate,rot-13+jpeg71
+ref_nouns_9__cmp1.png,ref_nouns_9.png,compound2,compound,duplicate,rs0.66+border
+ref_nouns_9__cmp2.png,ref_nouns_9.png,compound3,compound,duplicate,rs0.47+blur1.2+border
+ref_nouns_9__cmp3.png,ref_nouns_9.png,compound3,compound,duplicate,crop0.19+hflip+hue-23
+ref_nouns_9__cmp4.png,ref_nouns_9.png,compound3,compound,duplicate,persp+hue30+rot19
+ref_nouns_9__cmp5.png,ref_nouns_9.png,compound3,compound,duplicate,hflip+sticker+blur1.1
+ref_pudgy_penguins_1__cmp0.png,ref_pudgy_penguins_1.png,compound2,compound,duplicate,jpeg48+blur1.9
+ref_pudgy_penguins_1__cmp1.png,ref_pudgy_penguins_1.png,compound3,compound,duplicate,jpeg52+border+hue36
+ref_pudgy_penguins_1__cmp2.png,ref_pudgy_penguins_1.png,compound3,compound,duplicate,hue-34+border+crop0.12
+ref_pudgy_penguins_1__cmp3.png,ref_pudgy_penguins_1.png,compound2,compound,duplicate,crop0.10+rot9
+ref_pudgy_penguins_1__cmp4.png,ref_pudgy_penguins_1.png,compound2,compound,duplicate,crop0.18+hflip
+ref_pudgy_penguins_1__cmp5.png,ref_pudgy_penguins_1.png,compound3,compound,duplicate,blur2.4+rot-11+rs0.51
+ref_pudgy_penguins_2__cmp0.png,ref_pudgy_penguins_2.png,compound3,compound,duplicate,crop0.13+rot-17+rs0.66
+ref_pudgy_penguins_2__cmp1.png,ref_pudgy_penguins_2.png,compound3,compound,duplicate,border+persp+sticker
+ref_pudgy_penguins_2__cmp2.png,ref_pudgy_penguins_2.png,compound2,compound,duplicate,persp+hue-25
+ref_pudgy_penguins_2__cmp3.png,ref_pudgy_penguins_2.png,compound2,compound,duplicate,persp+jpeg66
+ref_pudgy_penguins_2__cmp4.png,ref_pudgy_penguins_2.png,compound3,compound,duplicate,sticker+hflip+rs0.44
+ref_pudgy_penguins_2__cmp5.png,ref_pudgy_penguins_2.png,compound3,compound,duplicate,rs0.52+blur2.0+sticker
+ref_pudgy_penguins_3__cmp0.png,ref_pudgy_penguins_3.png,compound2,compound,duplicate,blur1.4+hflip
+ref_pudgy_penguins_3__cmp1.png,ref_pudgy_penguins_3.png,compound2,compound,duplicate,persp+blur1.2
+ref_pudgy_penguins_3__cmp2.png,ref_pudgy_penguins_3.png,compound3,compound,duplicate,hflip+persp+border
+ref_pudgy_penguins_3__cmp3.png,ref_pudgy_penguins_3.png,compound2,compound,duplicate,crop0.12+blur2.5
+ref_pudgy_penguins_3__cmp4.png,ref_pudgy_penguins_3.png,compound3,compound,duplicate,hflip+blur2.0+rot17
+ref_pudgy_penguins_3__cmp5.png,ref_pudgy_penguins_3.png,compound2,compound,duplicate,sticker+rs0.62
+ref_pudgy_penguins_4__cmp0.png,ref_pudgy_penguins_4.png,compound2,compound,duplicate,crop0.16+persp
+ref_pudgy_penguins_4__cmp1.png,ref_pudgy_penguins_4.png,compound3,compound,duplicate,crop0.16+hflip+hue-31
+ref_pudgy_penguins_4__cmp2.png,ref_pudgy_penguins_4.png,compound2,compound,duplicate,border+persp
+ref_pudgy_penguins_4__cmp3.png,ref_pudgy_penguins_4.png,compound2,compound,duplicate,sticker+border
+ref_pudgy_penguins_4__cmp4.png,ref_pudgy_penguins_4.png,compound2,compound,duplicate,persp+rot-8
+ref_pudgy_penguins_4__cmp5.png,ref_pudgy_penguins_4.png,compound2,compound,duplicate,hue-44+blur2.4
+ref_pudgy_penguins_5__cmp0.png,ref_pudgy_penguins_5.png,compound2,compound,duplicate,jpeg72+hue-20
+ref_pudgy_penguins_5__cmp1.png,ref_pudgy_penguins_5.png,compound3,compound,duplicate,jpeg66+hue-56+border
+ref_pudgy_penguins_5__cmp2.png,ref_pudgy_penguins_5.png,compound3,compound,duplicate,hflip+blur1.6+hue56
+ref_pudgy_penguins_5__cmp3.png,ref_pudgy_penguins_5.png,compound2,compound,duplicate,jpeg43+rot-12
+ref_pudgy_penguins_5__cmp4.png,ref_pudgy_penguins_5.png,compound2,compound,duplicate,rs0.75+rot19
+ref_pudgy_penguins_5__cmp5.png,ref_pudgy_penguins_5.png,compound3,compound,duplicate,blur1.3+rot12+border
+ref_world_of_women_1__cmp0.png,ref_world_of_women_1.png,compound2,compound,duplicate,persp+hue26
+ref_world_of_women_1__cmp1.png,ref_world_of_women_1.png,compound2,compound,duplicate,rot10+blur1.5
+ref_world_of_women_1__cmp2.png,ref_world_of_women_1.png,compound3,compound,duplicate,blur1.1+sticker+border
+ref_world_of_women_1__cmp3.png,ref_world_of_women_1.png,compound2,compound,duplicate,crop0.10+jpeg72
+ref_world_of_women_1__cmp4.png,ref_world_of_women_1.png,compound2,compound,duplicate,rot21+persp
+ref_world_of_women_1__cmp5.png,ref_world_of_women_1.png,compound2,compound,duplicate,hue53+rs0.68
+ref_world_of_women_10__cmp0.png,ref_world_of_women_10.png,compound2,compound,duplicate,hflip+crop0.15
+ref_world_of_women_10__cmp1.png,ref_world_of_women_10.png,compound2,compound,duplicate,crop0.19+hflip
+ref_world_of_women_10__cmp2.png,ref_world_of_women_10.png,compound2,compound,duplicate,rs0.62+sticker
+ref_world_of_women_10__cmp3.png,ref_world_of_women_10.png,compound3,compound,duplicate,blur2.0+crop0.11+persp
+ref_world_of_women_10__cmp4.png,ref_world_of_women_10.png,compound2,compound,duplicate,persp+jpeg71
+ref_world_of_women_10__cmp5.png,ref_world_of_women_10.png,compound2,compound,duplicate,crop0.16+blur1.5
+ref_world_of_women_2__cmp0.png,ref_world_of_women_2.png,compound2,compound,duplicate,hflip+persp
+ref_world_of_women_2__cmp1.png,ref_world_of_women_2.png,compound3,compound,duplicate,crop0.19+sticker+persp
+ref_world_of_women_2__cmp2.png,ref_world_of_women_2.png,compound2,compound,duplicate,hflip+border
+ref_world_of_women_2__cmp3.png,ref_world_of_women_2.png,compound3,compound,duplicate,sticker+persp+blur2.2
+ref_world_of_women_2__cmp4.png,ref_world_of_women_2.png,compound2,compound,duplicate,jpeg44+persp
+ref_world_of_women_2__cmp5.png,ref_world_of_women_2.png,compound2,compound,duplicate,blur1.6+rs0.50
+ref_world_of_women_3__cmp0.png,ref_world_of_women_3.png,compound3,compound,duplicate,rot16+rs0.40+blur1.1
+ref_world_of_women_3__cmp1.png,ref_world_of_women_3.png,compound3,compound,duplicate,blur1.3+crop0.16+rs0.55
+ref_world_of_women_3__cmp2.png,ref_world_of_women_3.png,compound3,compound,duplicate,rs0.79+hue-34+rot-16
+ref_world_of_women_3__cmp3.png,ref_world_of_women_3.png,compound2,compound,duplicate,rs0.62+sticker
+ref_world_of_women_3__cmp4.png,ref_world_of_women_3.png,compound2,compound,duplicate,sticker+hflip
+ref_world_of_women_3__cmp5.png,ref_world_of_women_3.png,compound2,compound,duplicate,jpeg72+hflip
+ref_world_of_women_4__cmp0.png,ref_world_of_women_4.png,compound2,compound,duplicate,rs0.80+persp
+ref_world_of_women_4__cmp1.png,ref_world_of_women_4.png,compound2,compound,duplicate,hflip+jpeg59
+ref_world_of_women_4__cmp2.png,ref_world_of_women_4.png,compound2,compound,duplicate,border+hflip
+ref_world_of_women_4__cmp3.png,ref_world_of_women_4.png,compound2,compound,duplicate,hflip+jpeg73
+ref_world_of_women_4__cmp4.png,ref_world_of_women_4.png,compound2,compound,duplicate,crop0.12+border
+ref_world_of_women_4__cmp5.png,ref_world_of_women_4.png,compound2,compound,duplicate,persp+rs0.50
+ref_world_of_women_5__cmp0.png,ref_world_of_women_5.png,compound3,compound,duplicate,rs0.64+rot-17+hflip
+ref_world_of_women_5__cmp1.png,ref_world_of_women_5.png,compound2,compound,duplicate,rs0.67+hue47
+ref_world_of_women_5__cmp2.png,ref_world_of_women_5.png,compound3,compound,duplicate,jpeg44+blur2.4+persp
+ref_world_of_women_5__cmp3.png,ref_world_of_women_5.png,compound3,compound,duplicate,crop0.19+hflip+border
+ref_world_of_women_5__cmp4.png,ref_world_of_women_5.png,compound3,compound,duplicate,blur1.3+hflip+persp
+ref_world_of_women_5__cmp5.png,ref_world_of_women_5.png,compound2,compound,duplicate,sticker+hue-16
+ref_world_of_women_6__cmp0.png,ref_world_of_women_6.png,compound2,compound,duplicate,sticker+rot-13
+ref_world_of_women_6__cmp1.png,ref_world_of_women_6.png,compound3,compound,duplicate,border+blur1.2+rs0.62
+ref_world_of_women_6__cmp2.png,ref_world_of_women_6.png,compound3,compound,duplicate,blur1.6+hue44+crop0.11
+ref_world_of_women_6__cmp3.png,ref_world_of_women_6.png,compound2,compound,duplicate,rs0.53+sticker
+ref_world_of_women_6__cmp4.png,ref_world_of_women_6.png,compound2,compound,duplicate,hue-42+sticker
+ref_world_of_women_6__cmp5.png,ref_world_of_women_6.png,compound2,compound,duplicate,blur1.9+sticker
+ref_world_of_women_7__cmp0.png,ref_world_of_women_7.png,compound2,compound,duplicate,crop0.11+jpeg59
+ref_world_of_women_7__cmp1.png,ref_world_of_women_7.png,compound3,compound,duplicate,rot-13+sticker+jpeg44
+ref_world_of_women_7__cmp2.png,ref_world_of_women_7.png,compound2,compound,duplicate,sticker+rs0.60
+ref_world_of_women_7__cmp3.png,ref_world_of_women_7.png,compound2,compound,duplicate,sticker+hue-16
+ref_world_of_women_7__cmp4.png,ref_world_of_women_7.png,compound2,compound,duplicate,hue26+rs0.54
+ref_world_of_women_7__cmp5.png,ref_world_of_women_7.png,compound2,compound,duplicate,persp+jpeg46
+ref_world_of_women_8__cmp0.png,ref_world_of_women_8.png,compound3,compound,duplicate,border+crop0.15+hue25
+ref_world_of_women_8__cmp1.png,ref_world_of_women_8.png,compound2,compound,duplicate,rot-17+border
+ref_world_of_women_8__cmp2.png,ref_world_of_women_8.png,compound2,compound,duplicate,persp+rot17
+ref_world_of_women_8__cmp3.png,ref_world_of_women_8.png,compound2,compound,duplicate,persp+rot-18
+ref_world_of_women_8__cmp4.png,ref_world_of_women_8.png,compound2,compound,duplicate,hflip+persp
+ref_world_of_women_8__cmp5.png,ref_world_of_women_8.png,compound3,compound,duplicate,jpeg64+border+rs0.43
+ref_world_of_women_9__cmp0.png,ref_world_of_women_9.png,compound2,compound,duplicate,blur1.7+border
+ref_world_of_women_9__cmp1.png,ref_world_of_women_9.png,compound2,compound,duplicate,jpeg75+hue-41
+ref_world_of_women_9__cmp2.png,ref_world_of_women_9.png,compound3,compound,duplicate,hflip+hue-29+border
+ref_world_of_women_9__cmp3.png,ref_world_of_women_9.png,compound2,compound,duplicate,border+jpeg52
+ref_world_of_women_9__cmp4.png,ref_world_of_women_9.png,compound3,compound,duplicate,crop0.12+persp+hflip
+ref_world_of_women_9__cmp5.png,ref_world_of_women_9.png,compound2,compound,duplicate,crop0.17+rot11
+ref_art_blocks_chromie_squiggle_1__i2i30.png,ref_art_blocks_chromie_squiggle_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_1__i2i50.png,ref_art_blocks_chromie_squiggle_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_1__i2i70.png,ref_art_blocks_chromie_squiggle_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_10__i2i30.png,ref_art_blocks_chromie_squiggle_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_10__i2i50.png,ref_art_blocks_chromie_squiggle_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_10__i2i70.png,ref_art_blocks_chromie_squiggle_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_2__i2i30.png,ref_art_blocks_chromie_squiggle_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_2__i2i50.png,ref_art_blocks_chromie_squiggle_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_2__i2i70.png,ref_art_blocks_chromie_squiggle_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_3__i2i30.png,ref_art_blocks_chromie_squiggle_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_3__i2i50.png,ref_art_blocks_chromie_squiggle_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_3__i2i70.png,ref_art_blocks_chromie_squiggle_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_4__i2i30.png,ref_art_blocks_chromie_squiggle_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_4__i2i50.png,ref_art_blocks_chromie_squiggle_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_4__i2i70.png,ref_art_blocks_chromie_squiggle_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_5__i2i30.png,ref_art_blocks_chromie_squiggle_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_5__i2i50.png,ref_art_blocks_chromie_squiggle_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_5__i2i70.png,ref_art_blocks_chromie_squiggle_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_6__i2i30.png,ref_art_blocks_chromie_squiggle_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_6__i2i50.png,ref_art_blocks_chromie_squiggle_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_6__i2i70.png,ref_art_blocks_chromie_squiggle_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_7__i2i30.png,ref_art_blocks_chromie_squiggle_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_7__i2i50.png,ref_art_blocks_chromie_squiggle_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_7__i2i70.png,ref_art_blocks_chromie_squiggle_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_8__i2i30.png,ref_art_blocks_chromie_squiggle_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_8__i2i50.png,ref_art_blocks_chromie_squiggle_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_8__i2i70.png,ref_art_blocks_chromie_squiggle_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_9__i2i30.png,ref_art_blocks_chromie_squiggle_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_9__i2i50.png,ref_art_blocks_chromie_squiggle_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_9__i2i70.png,ref_art_blocks_chromie_squiggle_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000001__i2i30.png,ref_art_blocks_fidenza_78000001.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000001__i2i50.png,ref_art_blocks_fidenza_78000001.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000001__i2i70.png,ref_art_blocks_fidenza_78000001.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000002__i2i30.png,ref_art_blocks_fidenza_78000002.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000002__i2i50.png,ref_art_blocks_fidenza_78000002.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000002__i2i70.png,ref_art_blocks_fidenza_78000002.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000003__i2i30.png,ref_art_blocks_fidenza_78000003.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000003__i2i50.png,ref_art_blocks_fidenza_78000003.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000003__i2i70.png,ref_art_blocks_fidenza_78000003.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000004__i2i30.png,ref_art_blocks_fidenza_78000004.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000004__i2i50.png,ref_art_blocks_fidenza_78000004.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000004__i2i70.png,ref_art_blocks_fidenza_78000004.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000005__i2i30.png,ref_art_blocks_fidenza_78000005.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000005__i2i50.png,ref_art_blocks_fidenza_78000005.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000005__i2i70.png,ref_art_blocks_fidenza_78000005.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000006__i2i30.png,ref_art_blocks_fidenza_78000006.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000006__i2i50.png,ref_art_blocks_fidenza_78000006.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000006__i2i70.png,ref_art_blocks_fidenza_78000006.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000007__i2i30.png,ref_art_blocks_fidenza_78000007.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000007__i2i50.png,ref_art_blocks_fidenza_78000007.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000007__i2i70.png,ref_art_blocks_fidenza_78000007.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000008__i2i30.png,ref_art_blocks_fidenza_78000008.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000008__i2i50.png,ref_art_blocks_fidenza_78000008.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000008__i2i70.png,ref_art_blocks_fidenza_78000008.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000009__i2i30.png,ref_art_blocks_fidenza_78000009.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000009__i2i50.png,ref_art_blocks_fidenza_78000009.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000009__i2i70.png,ref_art_blocks_fidenza_78000009.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000010__i2i30.png,ref_art_blocks_fidenza_78000010.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000010__i2i50.png,ref_art_blocks_fidenza_78000010.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000010__i2i70.png,ref_art_blocks_fidenza_78000010.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_1__i2i30.png,ref_azuki_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_1__i2i50.png,ref_azuki_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_1__i2i70.png,ref_azuki_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_10__i2i30.png,ref_azuki_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_10__i2i50.png,ref_azuki_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_10__i2i70.png,ref_azuki_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_2__i2i30.png,ref_azuki_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_2__i2i50.png,ref_azuki_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_2__i2i70.png,ref_azuki_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_3__i2i30.png,ref_azuki_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_3__i2i50.png,ref_azuki_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_3__i2i70.png,ref_azuki_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_4__i2i30.png,ref_azuki_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_4__i2i50.png,ref_azuki_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_4__i2i70.png,ref_azuki_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_5__i2i30.png,ref_azuki_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_5__i2i50.png,ref_azuki_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_5__i2i70.png,ref_azuki_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_6__i2i30.png,ref_azuki_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_6__i2i50.png,ref_azuki_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_6__i2i70.png,ref_azuki_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_7__i2i30.png,ref_azuki_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_7__i2i50.png,ref_azuki_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_7__i2i70.png,ref_azuki_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_8__i2i30.png,ref_azuki_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_8__i2i50.png,ref_azuki_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_8__i2i70.png,ref_azuki_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_9__i2i30.png,ref_azuki_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_9__i2i50.png,ref_azuki_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_9__i2i70.png,ref_azuki_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_1__i2i30.png,ref_bored_ape_yacht_club_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_1__i2i50.png,ref_bored_ape_yacht_club_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_1__i2i70.png,ref_bored_ape_yacht_club_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_10__i2i30.png,ref_bored_ape_yacht_club_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_10__i2i50.png,ref_bored_ape_yacht_club_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_10__i2i70.png,ref_bored_ape_yacht_club_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_2__i2i30.png,ref_bored_ape_yacht_club_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_2__i2i50.png,ref_bored_ape_yacht_club_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_2__i2i70.png,ref_bored_ape_yacht_club_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_3__i2i30.png,ref_bored_ape_yacht_club_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_3__i2i50.png,ref_bored_ape_yacht_club_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_3__i2i70.png,ref_bored_ape_yacht_club_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_4__i2i30.png,ref_bored_ape_yacht_club_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_4__i2i50.png,ref_bored_ape_yacht_club_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_4__i2i70.png,ref_bored_ape_yacht_club_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_5__i2i30.png,ref_bored_ape_yacht_club_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_5__i2i50.png,ref_bored_ape_yacht_club_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_5__i2i70.png,ref_bored_ape_yacht_club_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_6__i2i30.png,ref_bored_ape_yacht_club_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_6__i2i50.png,ref_bored_ape_yacht_club_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_6__i2i70.png,ref_bored_ape_yacht_club_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_7__i2i30.png,ref_bored_ape_yacht_club_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_7__i2i50.png,ref_bored_ape_yacht_club_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_7__i2i70.png,ref_bored_ape_yacht_club_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_8__i2i30.png,ref_bored_ape_yacht_club_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_8__i2i50.png,ref_bored_ape_yacht_club_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_8__i2i70.png,ref_bored_ape_yacht_club_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_9__i2i30.png,ref_bored_ape_yacht_club_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_9__i2i50.png,ref_bored_ape_yacht_club_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_9__i2i70.png,ref_bored_ape_yacht_club_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_1__i2i30.png,ref_doodles_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_1__i2i50.png,ref_doodles_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_1__i2i70.png,ref_doodles_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_10__i2i30.png,ref_doodles_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_10__i2i50.png,ref_doodles_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_10__i2i70.png,ref_doodles_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_2__i2i30.png,ref_doodles_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_2__i2i50.png,ref_doodles_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_2__i2i70.png,ref_doodles_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_3__i2i30.png,ref_doodles_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_3__i2i50.png,ref_doodles_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_3__i2i70.png,ref_doodles_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_4__i2i30.png,ref_doodles_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_4__i2i50.png,ref_doodles_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_4__i2i70.png,ref_doodles_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_5__i2i30.png,ref_doodles_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_5__i2i50.png,ref_doodles_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_5__i2i70.png,ref_doodles_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_6__i2i30.png,ref_doodles_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_6__i2i50.png,ref_doodles_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_6__i2i70.png,ref_doodles_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_7__i2i30.png,ref_doodles_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_7__i2i50.png,ref_doodles_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_7__i2i70.png,ref_doodles_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_8__i2i30.png,ref_doodles_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_8__i2i50.png,ref_doodles_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_8__i2i70.png,ref_doodles_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_9__i2i30.png,ref_doodles_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_9__i2i50.png,ref_doodles_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_9__i2i70.png,ref_doodles_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_1__i2i30.png,ref_loot_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_1__i2i50.png,ref_loot_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_1__i2i70.png,ref_loot_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_10__i2i30.png,ref_loot_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_10__i2i50.png,ref_loot_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_10__i2i70.png,ref_loot_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_2__i2i30.png,ref_loot_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_2__i2i50.png,ref_loot_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_2__i2i70.png,ref_loot_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_3__i2i30.png,ref_loot_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_3__i2i50.png,ref_loot_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_3__i2i70.png,ref_loot_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_4__i2i30.png,ref_loot_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_4__i2i50.png,ref_loot_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_4__i2i70.png,ref_loot_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_5__i2i30.png,ref_loot_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_5__i2i50.png,ref_loot_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_5__i2i70.png,ref_loot_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_6__i2i30.png,ref_loot_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_6__i2i50.png,ref_loot_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_6__i2i70.png,ref_loot_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_7__i2i30.png,ref_loot_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_7__i2i50.png,ref_loot_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_7__i2i70.png,ref_loot_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_8__i2i30.png,ref_loot_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_8__i2i50.png,ref_loot_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_8__i2i70.png,ref_loot_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_9__i2i30.png,ref_loot_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_9__i2i50.png,ref_loot_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_9__i2i70.png,ref_loot_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_1__i2i30.png,ref_meebits_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_1__i2i50.png,ref_meebits_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_1__i2i70.png,ref_meebits_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_2__i2i30.png,ref_meebits_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_2__i2i50.png,ref_meebits_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_2__i2i70.png,ref_meebits_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_3__i2i30.png,ref_meebits_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_3__i2i50.png,ref_meebits_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_3__i2i70.png,ref_meebits_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_4__i2i30.png,ref_meebits_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_4__i2i50.png,ref_meebits_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_4__i2i70.png,ref_meebits_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_5__i2i30.png,ref_meebits_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_5__i2i50.png,ref_meebits_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_5__i2i70.png,ref_meebits_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_1__i2i30.png,ref_moonbirds_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_1__i2i50.png,ref_moonbirds_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_1__i2i70.png,ref_moonbirds_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_10__i2i30.png,ref_moonbirds_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_10__i2i50.png,ref_moonbirds_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_10__i2i70.png,ref_moonbirds_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_2__i2i30.png,ref_moonbirds_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_2__i2i50.png,ref_moonbirds_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_2__i2i70.png,ref_moonbirds_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_3__i2i30.png,ref_moonbirds_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_3__i2i50.png,ref_moonbirds_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_3__i2i70.png,ref_moonbirds_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_4__i2i30.png,ref_moonbirds_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_4__i2i50.png,ref_moonbirds_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_4__i2i70.png,ref_moonbirds_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_5__i2i30.png,ref_moonbirds_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_5__i2i50.png,ref_moonbirds_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_5__i2i70.png,ref_moonbirds_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_6__i2i30.png,ref_moonbirds_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_6__i2i50.png,ref_moonbirds_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_6__i2i70.png,ref_moonbirds_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_7__i2i30.png,ref_moonbirds_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_7__i2i50.png,ref_moonbirds_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_7__i2i70.png,ref_moonbirds_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_8__i2i30.png,ref_moonbirds_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_8__i2i50.png,ref_moonbirds_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_8__i2i70.png,ref_moonbirds_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_9__i2i30.png,ref_moonbirds_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_9__i2i50.png,ref_moonbirds_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_9__i2i70.png,ref_moonbirds_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_1__i2i30.png,ref_nouns_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_1__i2i50.png,ref_nouns_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_1__i2i70.png,ref_nouns_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_10__i2i30.png,ref_nouns_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_10__i2i50.png,ref_nouns_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_10__i2i70.png,ref_nouns_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_2__i2i30.png,ref_nouns_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_2__i2i50.png,ref_nouns_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_2__i2i70.png,ref_nouns_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_3__i2i30.png,ref_nouns_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_3__i2i50.png,ref_nouns_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_3__i2i70.png,ref_nouns_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_4__i2i30.png,ref_nouns_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_4__i2i50.png,ref_nouns_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_4__i2i70.png,ref_nouns_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_5__i2i30.png,ref_nouns_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_5__i2i50.png,ref_nouns_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_5__i2i70.png,ref_nouns_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_6__i2i30.png,ref_nouns_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_6__i2i50.png,ref_nouns_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_6__i2i70.png,ref_nouns_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_7__i2i30.png,ref_nouns_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_7__i2i50.png,ref_nouns_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_7__i2i70.png,ref_nouns_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_8__i2i30.png,ref_nouns_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_8__i2i50.png,ref_nouns_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_8__i2i70.png,ref_nouns_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_9__i2i30.png,ref_nouns_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_9__i2i50.png,ref_nouns_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_9__i2i70.png,ref_nouns_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_1__i2i30.png,ref_pudgy_penguins_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_1__i2i50.png,ref_pudgy_penguins_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_1__i2i70.png,ref_pudgy_penguins_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_2__i2i30.png,ref_pudgy_penguins_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_2__i2i50.png,ref_pudgy_penguins_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_2__i2i70.png,ref_pudgy_penguins_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_3__i2i30.png,ref_pudgy_penguins_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_3__i2i50.png,ref_pudgy_penguins_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_3__i2i70.png,ref_pudgy_penguins_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_4__i2i30.png,ref_pudgy_penguins_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_4__i2i50.png,ref_pudgy_penguins_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_4__i2i70.png,ref_pudgy_penguins_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_5__i2i30.png,ref_pudgy_penguins_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_5__i2i50.png,ref_pudgy_penguins_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_5__i2i70.png,ref_pudgy_penguins_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_1__i2i30.png,ref_world_of_women_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_1__i2i50.png,ref_world_of_women_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_1__i2i70.png,ref_world_of_women_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_10__i2i30.png,ref_world_of_women_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_10__i2i50.png,ref_world_of_women_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_10__i2i70.png,ref_world_of_women_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_2__i2i30.png,ref_world_of_women_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_2__i2i50.png,ref_world_of_women_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_2__i2i70.png,ref_world_of_women_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_3__i2i30.png,ref_world_of_women_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_3__i2i50.png,ref_world_of_women_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_3__i2i70.png,ref_world_of_women_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_4__i2i30.png,ref_world_of_women_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_4__i2i50.png,ref_world_of_women_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_4__i2i70.png,ref_world_of_women_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_5__i2i30.png,ref_world_of_women_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_5__i2i50.png,ref_world_of_women_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_5__i2i70.png,ref_world_of_women_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_6__i2i30.png,ref_world_of_women_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_6__i2i50.png,ref_world_of_women_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_6__i2i70.png,ref_world_of_women_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_7__i2i30.png,ref_world_of_women_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_7__i2i50.png,ref_world_of_women_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_7__i2i70.png,ref_world_of_women_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_8__i2i30.png,ref_world_of_women_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_8__i2i50.png,ref_world_of_women_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_8__i2i70.png,ref_world_of_women_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_9__i2i30.png,ref_world_of_women_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_9__i2i50.png,ref_world_of_women_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_9__i2i70.png,ref_world_of_women_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_1__ip2p0.png,ref_art_blocks_chromie_squiggle_1.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_1__ip2p1.png,ref_art_blocks_chromie_squiggle_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_chromie_squiggle_1__ip2p2.png,ref_art_blocks_chromie_squiggle_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_art_blocks_chromie_squiggle_10__ip2p0.png,ref_art_blocks_chromie_squiggle_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_10__ip2p1.png,ref_art_blocks_chromie_squiggle_10.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_10__ip2p2.png,ref_art_blocks_chromie_squiggle_10.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_chromie_squiggle_2__ip2p0.png,ref_art_blocks_chromie_squiggle_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_chromie_squiggle_2__ip2p1.png,ref_art_blocks_chromie_squiggle_2.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_chromie_squiggle_2__ip2p2.png,ref_art_blocks_chromie_squiggle_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_3__ip2p0.png,ref_art_blocks_chromie_squiggle_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_chromie_squiggle_3__ip2p1.png,ref_art_blocks_chromie_squiggle_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_chromie_squiggle_3__ip2p2.png,ref_art_blocks_chromie_squiggle_3.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_4__ip2p0.png,ref_art_blocks_chromie_squiggle_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_4__ip2p1.png,ref_art_blocks_chromie_squiggle_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_chromie_squiggle_4__ip2p2.png,ref_art_blocks_chromie_squiggle_4.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_5__ip2p0.png,ref_art_blocks_chromie_squiggle_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_5__ip2p1.png,ref_art_blocks_chromie_squiggle_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_5__ip2p2.png,ref_art_blocks_chromie_squiggle_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_chromie_squiggle_6__ip2p0.png,ref_art_blocks_chromie_squiggle_6.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_chromie_squiggle_6__ip2p1.png,ref_art_blocks_chromie_squiggle_6.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_art_blocks_chromie_squiggle_6__ip2p2.png,ref_art_blocks_chromie_squiggle_6.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_7__ip2p0.png,ref_art_blocks_chromie_squiggle_7.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_7__ip2p1.png,ref_art_blocks_chromie_squiggle_7.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_7__ip2p2.png,ref_art_blocks_chromie_squiggle_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_8__ip2p0.png,ref_art_blocks_chromie_squiggle_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_art_blocks_chromie_squiggle_8__ip2p1.png,ref_art_blocks_chromie_squiggle_8.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_8__ip2p2.png,ref_art_blocks_chromie_squiggle_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_9__ip2p0.png,ref_art_blocks_chromie_squiggle_9.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_chromie_squiggle_9__ip2p1.png,ref_art_blocks_chromie_squiggle_9.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_9__ip2p2.png,ref_art_blocks_chromie_squiggle_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000001__ip2p0.png,ref_art_blocks_fidenza_78000001.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000001__ip2p1.png,ref_art_blocks_fidenza_78000001.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000001__ip2p2.png,ref_art_blocks_fidenza_78000001.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000002__ip2p0.png,ref_art_blocks_fidenza_78000002.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_fidenza_78000002__ip2p1.png,ref_art_blocks_fidenza_78000002.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000002__ip2p2.png,ref_art_blocks_fidenza_78000002.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000003__ip2p0.png,ref_art_blocks_fidenza_78000003.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000003__ip2p1.png,ref_art_blocks_fidenza_78000003.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000003__ip2p2.png,ref_art_blocks_fidenza_78000003.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000004__ip2p0.png,ref_art_blocks_fidenza_78000004.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_fidenza_78000004__ip2p1.png,ref_art_blocks_fidenza_78000004.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_art_blocks_fidenza_78000004__ip2p2.png,ref_art_blocks_fidenza_78000004.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000005__ip2p0.png,ref_art_blocks_fidenza_78000005.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_fidenza_78000005__ip2p1.png,ref_art_blocks_fidenza_78000005.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000005__ip2p2.png,ref_art_blocks_fidenza_78000005.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_art_blocks_fidenza_78000006__ip2p0.png,ref_art_blocks_fidenza_78000006.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000006__ip2p1.png,ref_art_blocks_fidenza_78000006.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_fidenza_78000006__ip2p2.png,ref_art_blocks_fidenza_78000006.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_fidenza_78000007__ip2p0.png,ref_art_blocks_fidenza_78000007.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000007__ip2p1.png,ref_art_blocks_fidenza_78000007.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_fidenza_78000007__ip2p2.png,ref_art_blocks_fidenza_78000007.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_art_blocks_fidenza_78000008__ip2p0.png,ref_art_blocks_fidenza_78000008.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_fidenza_78000008__ip2p1.png,ref_art_blocks_fidenza_78000008.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_fidenza_78000008__ip2p2.png,ref_art_blocks_fidenza_78000008.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000009__ip2p0.png,ref_art_blocks_fidenza_78000009.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000009__ip2p1.png,ref_art_blocks_fidenza_78000009.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000009__ip2p2.png,ref_art_blocks_fidenza_78000009.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_art_blocks_fidenza_78000010__ip2p0.png,ref_art_blocks_fidenza_78000010.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000010__ip2p1.png,ref_art_blocks_fidenza_78000010.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_fidenza_78000010__ip2p2.png,ref_art_blocks_fidenza_78000010.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_1__ip2p0.png,ref_azuki_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_azuki_1__ip2p1.png,ref_azuki_1.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_1__ip2p2.png,ref_azuki_1.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_azuki_10__ip2p0.png,ref_azuki_10.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_10__ip2p1.png,ref_azuki_10.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_azuki_10__ip2p2.png,ref_azuki_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_azuki_2__ip2p0.png,ref_azuki_2.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_azuki_2__ip2p1.png,ref_azuki_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_2__ip2p2.png,ref_azuki_2.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_3__ip2p0.png,ref_azuki_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_azuki_3__ip2p1.png,ref_azuki_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_azuki_3__ip2p2.png,ref_azuki_3.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_4__ip2p0.png,ref_azuki_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_4__ip2p1.png,ref_azuki_4.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_azuki_4__ip2p2.png,ref_azuki_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_5__ip2p0.png,ref_azuki_5.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_azuki_5__ip2p1.png,ref_azuki_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_azuki_5__ip2p2.png,ref_azuki_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_6__ip2p0.png,ref_azuki_6.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_azuki_6__ip2p1.png,ref_azuki_6.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_6__ip2p2.png,ref_azuki_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_7__ip2p0.png,ref_azuki_7.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_7__ip2p1.png,ref_azuki_7.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_7__ip2p2.png,ref_azuki_7.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_azuki_8__ip2p0.png,ref_azuki_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_azuki_8__ip2p1.png,ref_azuki_8.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_azuki_8__ip2p2.png,ref_azuki_8.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_9__ip2p0.png,ref_azuki_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_azuki_9__ip2p1.png,ref_azuki_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_9__ip2p2.png,ref_azuki_9.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_1__ip2p0.png,ref_bored_ape_yacht_club_1.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_1__ip2p1.png,ref_bored_ape_yacht_club_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_1__ip2p2.png,ref_bored_ape_yacht_club_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_bored_ape_yacht_club_10__ip2p0.png,ref_bored_ape_yacht_club_10.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_10__ip2p1.png,ref_bored_ape_yacht_club_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_10__ip2p2.png,ref_bored_ape_yacht_club_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_2__ip2p0.png,ref_bored_ape_yacht_club_2.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_bored_ape_yacht_club_2__ip2p1.png,ref_bored_ape_yacht_club_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_bored_ape_yacht_club_2__ip2p2.png,ref_bored_ape_yacht_club_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_3__ip2p0.png,ref_bored_ape_yacht_club_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_bored_ape_yacht_club_3__ip2p1.png,ref_bored_ape_yacht_club_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_3__ip2p2.png,ref_bored_ape_yacht_club_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_4__ip2p0.png,ref_bored_ape_yacht_club_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_bored_ape_yacht_club_4__ip2p1.png,ref_bored_ape_yacht_club_4.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_4__ip2p2.png,ref_bored_ape_yacht_club_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_bored_ape_yacht_club_5__ip2p0.png,ref_bored_ape_yacht_club_5.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_bored_ape_yacht_club_5__ip2p1.png,ref_bored_ape_yacht_club_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_bored_ape_yacht_club_5__ip2p2.png,ref_bored_ape_yacht_club_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_6__ip2p0.png,ref_bored_ape_yacht_club_6.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_6__ip2p1.png,ref_bored_ape_yacht_club_6.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_bored_ape_yacht_club_6__ip2p2.png,ref_bored_ape_yacht_club_6.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_7__ip2p0.png,ref_bored_ape_yacht_club_7.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_7__ip2p1.png,ref_bored_ape_yacht_club_7.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_bored_ape_yacht_club_7__ip2p2.png,ref_bored_ape_yacht_club_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_bored_ape_yacht_club_8__ip2p0.png,ref_bored_ape_yacht_club_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_bored_ape_yacht_club_8__ip2p1.png,ref_bored_ape_yacht_club_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_bored_ape_yacht_club_8__ip2p2.png,ref_bored_ape_yacht_club_8.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_9__ip2p0.png,ref_bored_ape_yacht_club_9.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_9__ip2p1.png,ref_bored_ape_yacht_club_9.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_bored_ape_yacht_club_9__ip2p2.png,ref_bored_ape_yacht_club_9.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_doodles_1__ip2p0.png,ref_doodles_1.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_doodles_1__ip2p1.png,ref_doodles_1.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_doodles_1__ip2p2.png,ref_doodles_1.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_doodles_10__ip2p0.png,ref_doodles_10.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_doodles_10__ip2p1.png,ref_doodles_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_doodles_10__ip2p2.png,ref_doodles_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_doodles_2__ip2p0.png,ref_doodles_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_doodles_2__ip2p1.png,ref_doodles_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_2__ip2p2.png,ref_doodles_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_doodles_3__ip2p0.png,ref_doodles_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_doodles_3__ip2p1.png,ref_doodles_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_3__ip2p2.png,ref_doodles_3.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_doodles_4__ip2p0.png,ref_doodles_4.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_doodles_4__ip2p1.png,ref_doodles_4.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_doodles_4__ip2p2.png,ref_doodles_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_doodles_5__ip2p0.png,ref_doodles_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_doodles_5__ip2p1.png,ref_doodles_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_5__ip2p2.png,ref_doodles_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_doodles_6__ip2p0.png,ref_doodles_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_doodles_6__ip2p1.png,ref_doodles_6.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_doodles_6__ip2p2.png,ref_doodles_6.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_doodles_7__ip2p0.png,ref_doodles_7.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_doodles_7__ip2p1.png,ref_doodles_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_doodles_7__ip2p2.png,ref_doodles_7.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_doodles_8__ip2p0.png,ref_doodles_8.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_doodles_8__ip2p1.png,ref_doodles_8.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_8__ip2p2.png,ref_doodles_8.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_doodles_9__ip2p0.png,ref_doodles_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_9__ip2p1.png,ref_doodles_9.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_doodles_9__ip2p2.png,ref_doodles_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_1__ip2p0.png,ref_loot_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_loot_1__ip2p1.png,ref_loot_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_loot_1__ip2p2.png,ref_loot_1.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_loot_10__ip2p0.png,ref_loot_10.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_loot_10__ip2p1.png,ref_loot_10.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_loot_10__ip2p2.png,ref_loot_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_loot_2__ip2p0.png,ref_loot_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_loot_2__ip2p1.png,ref_loot_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_2__ip2p2.png,ref_loot_2.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_3__ip2p0.png,ref_loot_3.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_loot_3__ip2p1.png,ref_loot_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_loot_3__ip2p2.png,ref_loot_3.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_loot_4__ip2p0.png,ref_loot_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_loot_4__ip2p1.png,ref_loot_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_4__ip2p2.png,ref_loot_4.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_loot_5__ip2p0.png,ref_loot_5.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_loot_5__ip2p1.png,ref_loot_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_5__ip2p2.png,ref_loot_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_loot_6__ip2p0.png,ref_loot_6.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_6__ip2p1.png,ref_loot_6.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_loot_6__ip2p2.png,ref_loot_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_loot_7__ip2p0.png,ref_loot_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_7__ip2p1.png,ref_loot_7.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_loot_7__ip2p2.png,ref_loot_7.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_8__ip2p0.png,ref_loot_8.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_loot_8__ip2p1.png,ref_loot_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_8__ip2p2.png,ref_loot_8.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_loot_9__ip2p0.png,ref_loot_9.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_9__ip2p1.png,ref_loot_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_loot_9__ip2p2.png,ref_loot_9.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_meebits_1__ip2p0.png,ref_meebits_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_meebits_1__ip2p1.png,ref_meebits_1.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_meebits_1__ip2p2.png,ref_meebits_1.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_meebits_2__ip2p0.png,ref_meebits_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_meebits_2__ip2p1.png,ref_meebits_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_meebits_2__ip2p2.png,ref_meebits_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_meebits_3__ip2p0.png,ref_meebits_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_meebits_3__ip2p1.png,ref_meebits_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_meebits_3__ip2p2.png,ref_meebits_3.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_meebits_4__ip2p0.png,ref_meebits_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_meebits_4__ip2p1.png,ref_meebits_4.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_meebits_4__ip2p2.png,ref_meebits_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_meebits_5__ip2p0.png,ref_meebits_5.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_meebits_5__ip2p1.png,ref_meebits_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_meebits_5__ip2p2.png,ref_meebits_5.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_moonbirds_1__ip2p0.png,ref_moonbirds_1.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_moonbirds_1__ip2p1.png,ref_moonbirds_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_moonbirds_1__ip2p2.png,ref_moonbirds_1.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_moonbirds_10__ip2p0.png,ref_moonbirds_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_moonbirds_10__ip2p1.png,ref_moonbirds_10.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_moonbirds_10__ip2p2.png,ref_moonbirds_10.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_2__ip2p0.png,ref_moonbirds_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_moonbirds_2__ip2p1.png,ref_moonbirds_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_moonbirds_2__ip2p2.png,ref_moonbirds_2.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_3__ip2p0.png,ref_moonbirds_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_moonbirds_3__ip2p1.png,ref_moonbirds_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_moonbirds_3__ip2p2.png,ref_moonbirds_3.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_4__ip2p0.png,ref_moonbirds_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_4__ip2p1.png,ref_moonbirds_4.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_moonbirds_4__ip2p2.png,ref_moonbirds_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_moonbirds_5__ip2p0.png,ref_moonbirds_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_moonbirds_5__ip2p1.png,ref_moonbirds_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_moonbirds_5__ip2p2.png,ref_moonbirds_5.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_moonbirds_6__ip2p0.png,ref_moonbirds_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_moonbirds_6__ip2p1.png,ref_moonbirds_6.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_6__ip2p2.png,ref_moonbirds_6.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_moonbirds_7__ip2p0.png,ref_moonbirds_7.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_moonbirds_7__ip2p1.png,ref_moonbirds_7.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_moonbirds_7__ip2p2.png,ref_moonbirds_7.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_moonbirds_8__ip2p0.png,ref_moonbirds_8.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_moonbirds_8__ip2p1.png,ref_moonbirds_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_moonbirds_8__ip2p2.png,ref_moonbirds_8.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_moonbirds_9__ip2p0.png,ref_moonbirds_9.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_moonbirds_9__ip2p1.png,ref_moonbirds_9.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_moonbirds_9__ip2p2.png,ref_moonbirds_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_nouns_1__ip2p0.png,ref_nouns_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_nouns_1__ip2p1.png,ref_nouns_1.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_nouns_1__ip2p2.png,ref_nouns_1.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_nouns_10__ip2p0.png,ref_nouns_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_nouns_10__ip2p1.png,ref_nouns_10.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_nouns_10__ip2p2.png,ref_nouns_10.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_2__ip2p0.png,ref_nouns_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_nouns_2__ip2p1.png,ref_nouns_2.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_2__ip2p2.png,ref_nouns_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_3__ip2p0.png,ref_nouns_3.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_3__ip2p1.png,ref_nouns_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_nouns_3__ip2p2.png,ref_nouns_3.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_4__ip2p0.png,ref_nouns_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_nouns_4__ip2p1.png,ref_nouns_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_nouns_4__ip2p2.png,ref_nouns_4.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_nouns_5__ip2p0.png,ref_nouns_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_nouns_5__ip2p1.png,ref_nouns_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_5__ip2p2.png,ref_nouns_5.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_6__ip2p0.png,ref_nouns_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_nouns_6__ip2p1.png,ref_nouns_6.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_6__ip2p2.png,ref_nouns_6.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_nouns_7__ip2p0.png,ref_nouns_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_7__ip2p1.png,ref_nouns_7.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_nouns_7__ip2p2.png,ref_nouns_7.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_nouns_8__ip2p0.png,ref_nouns_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_8__ip2p1.png,ref_nouns_8.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_nouns_8__ip2p2.png,ref_nouns_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_9__ip2p0.png,ref_nouns_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_nouns_9__ip2p1.png,ref_nouns_9.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_9__ip2p2.png,ref_nouns_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_pudgy_penguins_1__ip2p0.png,ref_pudgy_penguins_1.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_pudgy_penguins_1__ip2p1.png,ref_pudgy_penguins_1.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_pudgy_penguins_1__ip2p2.png,ref_pudgy_penguins_1.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_pudgy_penguins_2__ip2p0.png,ref_pudgy_penguins_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_pudgy_penguins_2__ip2p1.png,ref_pudgy_penguins_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_pudgy_penguins_2__ip2p2.png,ref_pudgy_penguins_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_pudgy_penguins_3__ip2p0.png,ref_pudgy_penguins_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_pudgy_penguins_3__ip2p1.png,ref_pudgy_penguins_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_pudgy_penguins_3__ip2p2.png,ref_pudgy_penguins_3.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_pudgy_penguins_4__ip2p0.png,ref_pudgy_penguins_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_pudgy_penguins_4__ip2p1.png,ref_pudgy_penguins_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_pudgy_penguins_4__ip2p2.png,ref_pudgy_penguins_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_pudgy_penguins_5__ip2p0.png,ref_pudgy_penguins_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_pudgy_penguins_5__ip2p1.png,ref_pudgy_penguins_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_pudgy_penguins_5__ip2p2.png,ref_pudgy_penguins_5.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_world_of_women_1__ip2p0.png,ref_world_of_women_1.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_world_of_women_1__ip2p1.png,ref_world_of_women_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_world_of_women_1__ip2p2.png,ref_world_of_women_1.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_10__ip2p0.png,ref_world_of_women_10.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_world_of_women_10__ip2p1.png,ref_world_of_women_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_world_of_women_10__ip2p2.png,ref_world_of_women_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_2__ip2p0.png,ref_world_of_women_2.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_2__ip2p1.png,ref_world_of_women_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_world_of_women_2__ip2p2.png,ref_world_of_women_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_world_of_women_3__ip2p0.png,ref_world_of_women_3.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_world_of_women_3__ip2p1.png,ref_world_of_women_3.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_world_of_women_3__ip2p2.png,ref_world_of_women_3.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_4__ip2p0.png,ref_world_of_women_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_world_of_women_4__ip2p1.png,ref_world_of_women_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_world_of_women_4__ip2p2.png,ref_world_of_women_4.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_world_of_women_5__ip2p0.png,ref_world_of_women_5.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_world_of_women_5__ip2p1.png,ref_world_of_women_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_5__ip2p2.png,ref_world_of_women_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_world_of_women_6__ip2p0.png,ref_world_of_women_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_world_of_women_6__ip2p1.png,ref_world_of_women_6.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_world_of_women_6__ip2p2.png,ref_world_of_women_6.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_7__ip2p0.png,ref_world_of_women_7.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_world_of_women_7__ip2p1.png,ref_world_of_women_7.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_world_of_women_7__ip2p2.png,ref_world_of_women_7.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_8__ip2p0.png,ref_world_of_women_8.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_8__ip2p1.png,ref_world_of_women_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_world_of_women_8__ip2p2.png,ref_world_of_women_8.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_world_of_women_9__ip2p0.png,ref_world_of_women_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_world_of_women_9__ip2p1.png,ref_world_of_women_9.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_world_of_women_9__ip2p2.png,ref_world_of_women_9.png,instruct_pix2pix,generative,duplicate,turn it into pixel art

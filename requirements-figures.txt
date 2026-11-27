@@ -1,0 +1,5 @@
+# CPU-only dependencies for src/reproduce_paper_figures.py
+pillow>=10
+numpy
+pandas
+matplotlib

@@ -1,0 +1,22 @@
+\begin{table}[htbp]
+\caption{Evaluation metrics for duplicate and near-duplicate screening models.}
+\label{tab:metrics}
+\centering
+\begin{tabular}{lrrrrrrr}
+\toprule
+Model & Prec. & Rec. & F1 & FPR & FNR & Top-1 & Time (ms) \\
+\midrule
+M1 Raw SHA-256 & 1.00 & 0.01 & 0.01 & 0.00 & 0.99 & 0.01 & 0.88 \\
+M2 Canonical Hash & 1.00 & 0.14 & 0.25 & 0.00 & 0.85 & 0.14 & 18.50 \\
+M3 Color Quant. & 1.00 & 0.14 & 0.24 & 0.00 & 0.86 & 0.14 & 21.50 \\
+M4 pHash & 1.00 & 0.60 & 0.75 & 0.00 & 0.40 & 0.60 & 17.91 \\
+M5 dHash & 0.98 & 0.61 & 0.75 & 0.29 & 0.39 & 0.61 & 14.07 \\
+M6 Edge + pHash & 0.98 & 0.64 & 0.78 & 0.20 & 0.36 & 0.64 & 25.37 \\
+M7 Transform-aware pHash & 1.00 & 0.84 & 0.91 & 0.00 & 0.16 & 0.84 & 120.43 \\
+M8 SSIM & 0.93 & 0.65 & 0.76 & 0.66 & 0.35 & 0.63 & 559.32 \\
+M9 ORB & 0.95 & 0.90 & 0.92 & 0.64 & 0.10 & 0.88 & 211.25 \\
+M10 CLIP & 1.00 & 0.79 & 0.88 & 0.03 & 0.21 & 0.79 & 138.70 \\
+M11 SSCD & 0.95 & 0.97 & 0.96 & 0.88 & 0.03 & 0.96 & 148.52 \\
+\bottomrule
+\end{tabular}
+\end{table}

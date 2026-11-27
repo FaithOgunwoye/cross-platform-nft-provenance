@@ -1,0 +1,43 @@
+file,kind,source,param
+ref_azuki_3__original.png,original,ref_azuki_3.png,
+ref_azuki_3__cmp0.png,compound:compound2,ref_azuki_3.png,rs0.50+crop0.12
+ref_azuki_3__cmp1.png,compound:compound2,ref_azuki_3.png,hflip+persp
+ref_azuki_3__adapt.png,adaptive:adaptive_m7,ref_azuki_3.png,mag=0.1;m7=0.195
+ref_azuki_3__i2i30.png,generative:img2img_0.3,ref_azuki_3.png,strength=0.3
+ref_azuki_3__i2i50.png,generative:img2img_0.5,ref_azuki_3.png,strength=0.5
+ref_azuki_3__i2i70.png,generative:img2img_0.7,ref_azuki_3.png,strength=0.7
+ref_azuki_3__ip2p0.png,generative:instruct_pix2pix,ref_azuki_3.png,make it look like a 3D render
+ref_bored_ape_yacht_club_2__original.png,original,ref_bored_ape_yacht_club_2.png,
+ref_bored_ape_yacht_club_2__cmp0.png,compound:compound2,ref_bored_ape_yacht_club_2.png,rs0.51+hue-18
+ref_bored_ape_yacht_club_2__cmp1.png,compound:compound3,ref_bored_ape_yacht_club_2.png,rot-15+hflip+jpeg41
+ref_bored_ape_yacht_club_2__adapt.png,adaptive:adaptive_m7,ref_bored_ape_yacht_club_2.png,mag=0.1;m7=0.180
+ref_bored_ape_yacht_club_2__i2i30.png,generative:img2img_0.3,ref_bored_ape_yacht_club_2.png,strength=0.3
+ref_bored_ape_yacht_club_2__i2i50.png,generative:img2img_0.5,ref_bored_ape_yacht_club_2.png,strength=0.5
+ref_bored_ape_yacht_club_2__i2i70.png,generative:img2img_0.7,ref_bored_ape_yacht_club_2.png,strength=0.7
+ref_bored_ape_yacht_club_2__ip2p0.png,generative:instruct_pix2pix,ref_bored_ape_yacht_club_2.png,make it look like an oil painting
+ref_art_blocks_fidenza_78000004__original.png,original,ref_art_blocks_fidenza_78000004.png,
+ref_art_blocks_fidenza_78000004__cmp0.png,compound:compound2,ref_art_blocks_fidenza_78000004.png,hflip+border
+ref_art_blocks_fidenza_78000004__cmp1.png,compound:compound2,ref_art_blocks_fidenza_78000004.png,blur2.2+rs0.47
+ref_art_blocks_fidenza_78000004__adapt.png,adaptive:adaptive_m7,ref_art_blocks_fidenza_78000004.png,mag=0.1;m7=0.164
+ref_art_blocks_fidenza_78000004__i2i30.png,generative:img2img_0.3,ref_art_blocks_fidenza_78000004.png,strength=0.3
+ref_art_blocks_fidenza_78000004__i2i50.png,generative:img2img_0.5,ref_art_blocks_fidenza_78000004.png,strength=0.5
+ref_art_blocks_fidenza_78000004__i2i70.png,generative:img2img_0.7,ref_art_blocks_fidenza_78000004.png,strength=0.7
+ref_art_blocks_fidenza_78000004__ip2p0.png,generative:instruct_pix2pix,ref_art_blocks_fidenza_78000004.png,turn it into a pencil sketch
+ref_nouns_5__original.png,original,ref_nouns_5.png,
+ref_nouns_5__cmp0.png,compound:compound3,ref_nouns_5.png,rs0.51+border+rot18
+ref_nouns_5__cmp1.png,compound:compound3,ref_nouns_5.png,sticker+persp+rot23
+ref_nouns_5__adapt.png,adaptive:adaptive_m7,ref_nouns_5.png,mag=0.2;m7=0.180
+ref_nouns_5__i2i30.png,generative:img2img_0.3,ref_nouns_5.png,strength=0.3
+ref_nouns_5__i2i50.png,generative:img2img_0.5,ref_nouns_5.png,strength=0.5
+ref_nouns_5__i2i70.png,generative:img2img_0.7,ref_nouns_5.png,strength=0.7
+ref_nouns_5__ip2p0.png,generative:instruct_pix2pix,ref_nouns_5.png,make it a watercolor painting
+cm_rrbayc_2472__original.png,copymint_original,0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D,token 8460; mint ts 1619857525
+cm_rrbayc_2472__copy.png,copymint_copy,0x2EE6AF0dFf3A1CE3F7E3414C52c48fd50d73691e,token 2472; mint ts 1653355758; M4 0.0 M7 0.0
+cm_rrbayc_7005__original.png,copymint_original,0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D,token 9952; mint ts 1619858106
+cm_rrbayc_7005__copy.png,copymint_copy,0x2EE6AF0dFf3A1CE3F7E3414C52c48fd50d73691e,token 7005; mint ts 1655850935; M4 0.0 M7 0.0
+cm_rrbayc_6580__original.png,copymint_original,0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D,token 3615; mint ts 1619853926
+cm_rrbayc_6580__copy.png,copymint_copy,0x2EE6AF0dFf3A1CE3F7E3414C52c48fd50d73691e,token 6580; mint ts 1655813034; M4 0.0 M7 0.0
+cm_phunks_3172__original.png,copymint_original,0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB,token 3172; mint ts 1498233143
+cm_phunks_3172__copy.png,copymint_copy,0xf07468eAd8cf26c752C676E43C814FEe9c8CF402,token 3172; mint ts 1625261827; M4 0.5 M7 0.0
+cm_phunks_7870__original.png,copymint_original,0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB,token 7870; mint ts 1498242653
+cm_phunks_7870__copy.png,copymint_copy,0xf07468eAd8cf26c752C676E43C814FEe9c8CF402,token 7870; mint ts 1625264620; M4 0.5078 M7 0.0078

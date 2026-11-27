@@ -1,0 +1,13 @@
+{
+ "cpu_hashes_total_s": 14.946160078048706,
+ "clip_batched_ms_per_img": 5.644010684590016,
+ "clip_single_ms_cuda": 12.624752474948764,
+ "clip_single_ms_cpu": 22.300436161458492,
+ "sscd_batched_ms_per_img": 5.662208666065377,
+ "sscd_single_ms_cuda": 11.652603512629867,
+ "sscd_single_ms_cpu": 28.931274777278304,
+ "dino_batched_ms_per_img": 6.415679770019514,
+ "dino_single_ms_cuda": 15.52848145365715,
+ "dino_single_ms_cpu": 63.261611852794886,
+ "device": "NVIDIA GeForce RTX 5090"
+}

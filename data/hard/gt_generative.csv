@@ -1,0 +1,601 @@
+candidate,source,distortion,distortion_class,label,param
+ref_art_blocks_chromie_squiggle_1__i2i30.png,ref_art_blocks_chromie_squiggle_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_1__i2i50.png,ref_art_blocks_chromie_squiggle_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_1__i2i70.png,ref_art_blocks_chromie_squiggle_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_10__i2i30.png,ref_art_blocks_chromie_squiggle_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_10__i2i50.png,ref_art_blocks_chromie_squiggle_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_10__i2i70.png,ref_art_blocks_chromie_squiggle_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_2__i2i30.png,ref_art_blocks_chromie_squiggle_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_2__i2i50.png,ref_art_blocks_chromie_squiggle_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_2__i2i70.png,ref_art_blocks_chromie_squiggle_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_3__i2i30.png,ref_art_blocks_chromie_squiggle_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_3__i2i50.png,ref_art_blocks_chromie_squiggle_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_3__i2i70.png,ref_art_blocks_chromie_squiggle_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_4__i2i30.png,ref_art_blocks_chromie_squiggle_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_4__i2i50.png,ref_art_blocks_chromie_squiggle_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_4__i2i70.png,ref_art_blocks_chromie_squiggle_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_5__i2i30.png,ref_art_blocks_chromie_squiggle_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_5__i2i50.png,ref_art_blocks_chromie_squiggle_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_5__i2i70.png,ref_art_blocks_chromie_squiggle_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_6__i2i30.png,ref_art_blocks_chromie_squiggle_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_6__i2i50.png,ref_art_blocks_chromie_squiggle_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_6__i2i70.png,ref_art_blocks_chromie_squiggle_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_7__i2i30.png,ref_art_blocks_chromie_squiggle_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_7__i2i50.png,ref_art_blocks_chromie_squiggle_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_7__i2i70.png,ref_art_blocks_chromie_squiggle_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_8__i2i30.png,ref_art_blocks_chromie_squiggle_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_8__i2i50.png,ref_art_blocks_chromie_squiggle_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_8__i2i70.png,ref_art_blocks_chromie_squiggle_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_9__i2i30.png,ref_art_blocks_chromie_squiggle_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_chromie_squiggle_9__i2i50.png,ref_art_blocks_chromie_squiggle_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_chromie_squiggle_9__i2i70.png,ref_art_blocks_chromie_squiggle_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000001__i2i30.png,ref_art_blocks_fidenza_78000001.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000001__i2i50.png,ref_art_blocks_fidenza_78000001.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000001__i2i70.png,ref_art_blocks_fidenza_78000001.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000002__i2i30.png,ref_art_blocks_fidenza_78000002.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000002__i2i50.png,ref_art_blocks_fidenza_78000002.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000002__i2i70.png,ref_art_blocks_fidenza_78000002.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000003__i2i30.png,ref_art_blocks_fidenza_78000003.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000003__i2i50.png,ref_art_blocks_fidenza_78000003.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000003__i2i70.png,ref_art_blocks_fidenza_78000003.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000004__i2i30.png,ref_art_blocks_fidenza_78000004.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000004__i2i50.png,ref_art_blocks_fidenza_78000004.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000004__i2i70.png,ref_art_blocks_fidenza_78000004.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000005__i2i30.png,ref_art_blocks_fidenza_78000005.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000005__i2i50.png,ref_art_blocks_fidenza_78000005.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000005__i2i70.png,ref_art_blocks_fidenza_78000005.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000006__i2i30.png,ref_art_blocks_fidenza_78000006.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000006__i2i50.png,ref_art_blocks_fidenza_78000006.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000006__i2i70.png,ref_art_blocks_fidenza_78000006.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000007__i2i30.png,ref_art_blocks_fidenza_78000007.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000007__i2i50.png,ref_art_blocks_fidenza_78000007.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000007__i2i70.png,ref_art_blocks_fidenza_78000007.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000008__i2i30.png,ref_art_blocks_fidenza_78000008.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000008__i2i50.png,ref_art_blocks_fidenza_78000008.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000008__i2i70.png,ref_art_blocks_fidenza_78000008.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000009__i2i30.png,ref_art_blocks_fidenza_78000009.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000009__i2i50.png,ref_art_blocks_fidenza_78000009.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000009__i2i70.png,ref_art_blocks_fidenza_78000009.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_fidenza_78000010__i2i30.png,ref_art_blocks_fidenza_78000010.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_art_blocks_fidenza_78000010__i2i50.png,ref_art_blocks_fidenza_78000010.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_art_blocks_fidenza_78000010__i2i70.png,ref_art_blocks_fidenza_78000010.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_1__i2i30.png,ref_azuki_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_1__i2i50.png,ref_azuki_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_1__i2i70.png,ref_azuki_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_10__i2i30.png,ref_azuki_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_10__i2i50.png,ref_azuki_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_10__i2i70.png,ref_azuki_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_2__i2i30.png,ref_azuki_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_2__i2i50.png,ref_azuki_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_2__i2i70.png,ref_azuki_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_3__i2i30.png,ref_azuki_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_3__i2i50.png,ref_azuki_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_3__i2i70.png,ref_azuki_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_4__i2i30.png,ref_azuki_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_4__i2i50.png,ref_azuki_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_4__i2i70.png,ref_azuki_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_5__i2i30.png,ref_azuki_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_5__i2i50.png,ref_azuki_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_5__i2i70.png,ref_azuki_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_6__i2i30.png,ref_azuki_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_6__i2i50.png,ref_azuki_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_6__i2i70.png,ref_azuki_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_7__i2i30.png,ref_azuki_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_7__i2i50.png,ref_azuki_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_7__i2i70.png,ref_azuki_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_8__i2i30.png,ref_azuki_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_8__i2i50.png,ref_azuki_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_8__i2i70.png,ref_azuki_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_azuki_9__i2i30.png,ref_azuki_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_azuki_9__i2i50.png,ref_azuki_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_azuki_9__i2i70.png,ref_azuki_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_1__i2i30.png,ref_bored_ape_yacht_club_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_1__i2i50.png,ref_bored_ape_yacht_club_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_1__i2i70.png,ref_bored_ape_yacht_club_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_10__i2i30.png,ref_bored_ape_yacht_club_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_10__i2i50.png,ref_bored_ape_yacht_club_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_10__i2i70.png,ref_bored_ape_yacht_club_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_2__i2i30.png,ref_bored_ape_yacht_club_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_2__i2i50.png,ref_bored_ape_yacht_club_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_2__i2i70.png,ref_bored_ape_yacht_club_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_3__i2i30.png,ref_bored_ape_yacht_club_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_3__i2i50.png,ref_bored_ape_yacht_club_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_3__i2i70.png,ref_bored_ape_yacht_club_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_4__i2i30.png,ref_bored_ape_yacht_club_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_4__i2i50.png,ref_bored_ape_yacht_club_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_4__i2i70.png,ref_bored_ape_yacht_club_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_5__i2i30.png,ref_bored_ape_yacht_club_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_5__i2i50.png,ref_bored_ape_yacht_club_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_5__i2i70.png,ref_bored_ape_yacht_club_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_6__i2i30.png,ref_bored_ape_yacht_club_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_6__i2i50.png,ref_bored_ape_yacht_club_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_6__i2i70.png,ref_bored_ape_yacht_club_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_7__i2i30.png,ref_bored_ape_yacht_club_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_7__i2i50.png,ref_bored_ape_yacht_club_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_7__i2i70.png,ref_bored_ape_yacht_club_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_8__i2i30.png,ref_bored_ape_yacht_club_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_8__i2i50.png,ref_bored_ape_yacht_club_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_8__i2i70.png,ref_bored_ape_yacht_club_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_bored_ape_yacht_club_9__i2i30.png,ref_bored_ape_yacht_club_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_bored_ape_yacht_club_9__i2i50.png,ref_bored_ape_yacht_club_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_bored_ape_yacht_club_9__i2i70.png,ref_bored_ape_yacht_club_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_1__i2i30.png,ref_doodles_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_1__i2i50.png,ref_doodles_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_1__i2i70.png,ref_doodles_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_10__i2i30.png,ref_doodles_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_10__i2i50.png,ref_doodles_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_10__i2i70.png,ref_doodles_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_2__i2i30.png,ref_doodles_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_2__i2i50.png,ref_doodles_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_2__i2i70.png,ref_doodles_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_3__i2i30.png,ref_doodles_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_3__i2i50.png,ref_doodles_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_3__i2i70.png,ref_doodles_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_4__i2i30.png,ref_doodles_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_4__i2i50.png,ref_doodles_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_4__i2i70.png,ref_doodles_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_5__i2i30.png,ref_doodles_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_5__i2i50.png,ref_doodles_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_5__i2i70.png,ref_doodles_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_6__i2i30.png,ref_doodles_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_6__i2i50.png,ref_doodles_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_6__i2i70.png,ref_doodles_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_7__i2i30.png,ref_doodles_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_7__i2i50.png,ref_doodles_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_7__i2i70.png,ref_doodles_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_8__i2i30.png,ref_doodles_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_8__i2i50.png,ref_doodles_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_8__i2i70.png,ref_doodles_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_doodles_9__i2i30.png,ref_doodles_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_doodles_9__i2i50.png,ref_doodles_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_doodles_9__i2i70.png,ref_doodles_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_1__i2i30.png,ref_loot_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_1__i2i50.png,ref_loot_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_1__i2i70.png,ref_loot_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_10__i2i30.png,ref_loot_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_10__i2i50.png,ref_loot_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_10__i2i70.png,ref_loot_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_2__i2i30.png,ref_loot_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_2__i2i50.png,ref_loot_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_2__i2i70.png,ref_loot_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_3__i2i30.png,ref_loot_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_3__i2i50.png,ref_loot_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_3__i2i70.png,ref_loot_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_4__i2i30.png,ref_loot_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_4__i2i50.png,ref_loot_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_4__i2i70.png,ref_loot_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_5__i2i30.png,ref_loot_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_5__i2i50.png,ref_loot_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_5__i2i70.png,ref_loot_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_6__i2i30.png,ref_loot_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_6__i2i50.png,ref_loot_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_6__i2i70.png,ref_loot_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_7__i2i30.png,ref_loot_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_7__i2i50.png,ref_loot_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_7__i2i70.png,ref_loot_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_8__i2i30.png,ref_loot_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_8__i2i50.png,ref_loot_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_8__i2i70.png,ref_loot_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_loot_9__i2i30.png,ref_loot_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_loot_9__i2i50.png,ref_loot_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_loot_9__i2i70.png,ref_loot_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_1__i2i30.png,ref_meebits_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_1__i2i50.png,ref_meebits_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_1__i2i70.png,ref_meebits_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_2__i2i30.png,ref_meebits_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_2__i2i50.png,ref_meebits_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_2__i2i70.png,ref_meebits_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_3__i2i30.png,ref_meebits_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_3__i2i50.png,ref_meebits_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_3__i2i70.png,ref_meebits_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_4__i2i30.png,ref_meebits_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_4__i2i50.png,ref_meebits_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_4__i2i70.png,ref_meebits_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_meebits_5__i2i30.png,ref_meebits_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_meebits_5__i2i50.png,ref_meebits_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_meebits_5__i2i70.png,ref_meebits_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_1__i2i30.png,ref_moonbirds_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_1__i2i50.png,ref_moonbirds_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_1__i2i70.png,ref_moonbirds_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_10__i2i30.png,ref_moonbirds_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_10__i2i50.png,ref_moonbirds_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_10__i2i70.png,ref_moonbirds_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_2__i2i30.png,ref_moonbirds_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_2__i2i50.png,ref_moonbirds_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_2__i2i70.png,ref_moonbirds_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_3__i2i30.png,ref_moonbirds_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_3__i2i50.png,ref_moonbirds_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_3__i2i70.png,ref_moonbirds_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_4__i2i30.png,ref_moonbirds_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_4__i2i50.png,ref_moonbirds_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_4__i2i70.png,ref_moonbirds_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_5__i2i30.png,ref_moonbirds_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_5__i2i50.png,ref_moonbirds_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_5__i2i70.png,ref_moonbirds_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_6__i2i30.png,ref_moonbirds_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_6__i2i50.png,ref_moonbirds_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_6__i2i70.png,ref_moonbirds_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_7__i2i30.png,ref_moonbirds_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_7__i2i50.png,ref_moonbirds_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_7__i2i70.png,ref_moonbirds_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_8__i2i30.png,ref_moonbirds_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_8__i2i50.png,ref_moonbirds_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_8__i2i70.png,ref_moonbirds_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_moonbirds_9__i2i30.png,ref_moonbirds_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_moonbirds_9__i2i50.png,ref_moonbirds_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_moonbirds_9__i2i70.png,ref_moonbirds_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_1__i2i30.png,ref_nouns_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_1__i2i50.png,ref_nouns_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_1__i2i70.png,ref_nouns_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_10__i2i30.png,ref_nouns_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_10__i2i50.png,ref_nouns_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_10__i2i70.png,ref_nouns_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_2__i2i30.png,ref_nouns_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_2__i2i50.png,ref_nouns_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_2__i2i70.png,ref_nouns_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_3__i2i30.png,ref_nouns_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_3__i2i50.png,ref_nouns_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_3__i2i70.png,ref_nouns_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_4__i2i30.png,ref_nouns_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_4__i2i50.png,ref_nouns_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_4__i2i70.png,ref_nouns_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_5__i2i30.png,ref_nouns_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_5__i2i50.png,ref_nouns_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_5__i2i70.png,ref_nouns_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_6__i2i30.png,ref_nouns_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_6__i2i50.png,ref_nouns_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_6__i2i70.png,ref_nouns_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_7__i2i30.png,ref_nouns_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_7__i2i50.png,ref_nouns_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_7__i2i70.png,ref_nouns_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_8__i2i30.png,ref_nouns_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_8__i2i50.png,ref_nouns_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_8__i2i70.png,ref_nouns_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_nouns_9__i2i30.png,ref_nouns_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_nouns_9__i2i50.png,ref_nouns_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_nouns_9__i2i70.png,ref_nouns_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_1__i2i30.png,ref_pudgy_penguins_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_1__i2i50.png,ref_pudgy_penguins_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_1__i2i70.png,ref_pudgy_penguins_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_2__i2i30.png,ref_pudgy_penguins_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_2__i2i50.png,ref_pudgy_penguins_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_2__i2i70.png,ref_pudgy_penguins_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_3__i2i30.png,ref_pudgy_penguins_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_3__i2i50.png,ref_pudgy_penguins_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_3__i2i70.png,ref_pudgy_penguins_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_4__i2i30.png,ref_pudgy_penguins_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_4__i2i50.png,ref_pudgy_penguins_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_4__i2i70.png,ref_pudgy_penguins_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_pudgy_penguins_5__i2i30.png,ref_pudgy_penguins_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_pudgy_penguins_5__i2i50.png,ref_pudgy_penguins_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_pudgy_penguins_5__i2i70.png,ref_pudgy_penguins_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_1__i2i30.png,ref_world_of_women_1.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_1__i2i50.png,ref_world_of_women_1.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_1__i2i70.png,ref_world_of_women_1.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_10__i2i30.png,ref_world_of_women_10.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_10__i2i50.png,ref_world_of_women_10.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_10__i2i70.png,ref_world_of_women_10.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_2__i2i30.png,ref_world_of_women_2.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_2__i2i50.png,ref_world_of_women_2.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_2__i2i70.png,ref_world_of_women_2.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_3__i2i30.png,ref_world_of_women_3.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_3__i2i50.png,ref_world_of_women_3.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_3__i2i70.png,ref_world_of_women_3.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_4__i2i30.png,ref_world_of_women_4.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_4__i2i50.png,ref_world_of_women_4.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_4__i2i70.png,ref_world_of_women_4.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_5__i2i30.png,ref_world_of_women_5.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_5__i2i50.png,ref_world_of_women_5.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_5__i2i70.png,ref_world_of_women_5.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_6__i2i30.png,ref_world_of_women_6.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_6__i2i50.png,ref_world_of_women_6.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_6__i2i70.png,ref_world_of_women_6.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_7__i2i30.png,ref_world_of_women_7.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_7__i2i50.png,ref_world_of_women_7.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_7__i2i70.png,ref_world_of_women_7.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_8__i2i30.png,ref_world_of_women_8.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_8__i2i50.png,ref_world_of_women_8.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_8__i2i70.png,ref_world_of_women_8.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_world_of_women_9__i2i30.png,ref_world_of_women_9.png,img2img_0.3,generative,duplicate,strength=0.3
+ref_world_of_women_9__i2i50.png,ref_world_of_women_9.png,img2img_0.5,generative,duplicate,strength=0.5
+ref_world_of_women_9__i2i70.png,ref_world_of_women_9.png,img2img_0.7,generative,duplicate,strength=0.7
+ref_art_blocks_chromie_squiggle_1__ip2p0.png,ref_art_blocks_chromie_squiggle_1.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_1__ip2p1.png,ref_art_blocks_chromie_squiggle_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_chromie_squiggle_1__ip2p2.png,ref_art_blocks_chromie_squiggle_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_art_blocks_chromie_squiggle_10__ip2p0.png,ref_art_blocks_chromie_squiggle_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_10__ip2p1.png,ref_art_blocks_chromie_squiggle_10.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_10__ip2p2.png,ref_art_blocks_chromie_squiggle_10.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_chromie_squiggle_2__ip2p0.png,ref_art_blocks_chromie_squiggle_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_chromie_squiggle_2__ip2p1.png,ref_art_blocks_chromie_squiggle_2.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_chromie_squiggle_2__ip2p2.png,ref_art_blocks_chromie_squiggle_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_3__ip2p0.png,ref_art_blocks_chromie_squiggle_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_chromie_squiggle_3__ip2p1.png,ref_art_blocks_chromie_squiggle_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_chromie_squiggle_3__ip2p2.png,ref_art_blocks_chromie_squiggle_3.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_4__ip2p0.png,ref_art_blocks_chromie_squiggle_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_4__ip2p1.png,ref_art_blocks_chromie_squiggle_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_chromie_squiggle_4__ip2p2.png,ref_art_blocks_chromie_squiggle_4.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_5__ip2p0.png,ref_art_blocks_chromie_squiggle_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_5__ip2p1.png,ref_art_blocks_chromie_squiggle_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_5__ip2p2.png,ref_art_blocks_chromie_squiggle_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_chromie_squiggle_6__ip2p0.png,ref_art_blocks_chromie_squiggle_6.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_chromie_squiggle_6__ip2p1.png,ref_art_blocks_chromie_squiggle_6.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_art_blocks_chromie_squiggle_6__ip2p2.png,ref_art_blocks_chromie_squiggle_6.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_7__ip2p0.png,ref_art_blocks_chromie_squiggle_7.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_chromie_squiggle_7__ip2p1.png,ref_art_blocks_chromie_squiggle_7.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_7__ip2p2.png,ref_art_blocks_chromie_squiggle_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_8__ip2p0.png,ref_art_blocks_chromie_squiggle_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_art_blocks_chromie_squiggle_8__ip2p1.png,ref_art_blocks_chromie_squiggle_8.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_8__ip2p2.png,ref_art_blocks_chromie_squiggle_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_chromie_squiggle_9__ip2p0.png,ref_art_blocks_chromie_squiggle_9.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_chromie_squiggle_9__ip2p1.png,ref_art_blocks_chromie_squiggle_9.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_chromie_squiggle_9__ip2p2.png,ref_art_blocks_chromie_squiggle_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000001__ip2p0.png,ref_art_blocks_fidenza_78000001.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000001__ip2p1.png,ref_art_blocks_fidenza_78000001.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000001__ip2p2.png,ref_art_blocks_fidenza_78000001.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000002__ip2p0.png,ref_art_blocks_fidenza_78000002.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_fidenza_78000002__ip2p1.png,ref_art_blocks_fidenza_78000002.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000002__ip2p2.png,ref_art_blocks_fidenza_78000002.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000003__ip2p0.png,ref_art_blocks_fidenza_78000003.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000003__ip2p1.png,ref_art_blocks_fidenza_78000003.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000003__ip2p2.png,ref_art_blocks_fidenza_78000003.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000004__ip2p0.png,ref_art_blocks_fidenza_78000004.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_fidenza_78000004__ip2p1.png,ref_art_blocks_fidenza_78000004.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_art_blocks_fidenza_78000004__ip2p2.png,ref_art_blocks_fidenza_78000004.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000005__ip2p0.png,ref_art_blocks_fidenza_78000005.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_fidenza_78000005__ip2p1.png,ref_art_blocks_fidenza_78000005.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000005__ip2p2.png,ref_art_blocks_fidenza_78000005.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_art_blocks_fidenza_78000006__ip2p0.png,ref_art_blocks_fidenza_78000006.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000006__ip2p1.png,ref_art_blocks_fidenza_78000006.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_art_blocks_fidenza_78000006__ip2p2.png,ref_art_blocks_fidenza_78000006.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_fidenza_78000007__ip2p0.png,ref_art_blocks_fidenza_78000007.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000007__ip2p1.png,ref_art_blocks_fidenza_78000007.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_fidenza_78000007__ip2p2.png,ref_art_blocks_fidenza_78000007.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_art_blocks_fidenza_78000008__ip2p0.png,ref_art_blocks_fidenza_78000008.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_art_blocks_fidenza_78000008__ip2p1.png,ref_art_blocks_fidenza_78000008.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_fidenza_78000008__ip2p2.png,ref_art_blocks_fidenza_78000008.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000009__ip2p0.png,ref_art_blocks_fidenza_78000009.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_art_blocks_fidenza_78000009__ip2p1.png,ref_art_blocks_fidenza_78000009.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_art_blocks_fidenza_78000009__ip2p2.png,ref_art_blocks_fidenza_78000009.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_art_blocks_fidenza_78000010__ip2p0.png,ref_art_blocks_fidenza_78000010.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_art_blocks_fidenza_78000010__ip2p1.png,ref_art_blocks_fidenza_78000010.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_art_blocks_fidenza_78000010__ip2p2.png,ref_art_blocks_fidenza_78000010.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_1__ip2p0.png,ref_azuki_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_azuki_1__ip2p1.png,ref_azuki_1.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_1__ip2p2.png,ref_azuki_1.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_azuki_10__ip2p0.png,ref_azuki_10.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_10__ip2p1.png,ref_azuki_10.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_azuki_10__ip2p2.png,ref_azuki_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_azuki_2__ip2p0.png,ref_azuki_2.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_azuki_2__ip2p1.png,ref_azuki_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_2__ip2p2.png,ref_azuki_2.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_3__ip2p0.png,ref_azuki_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_azuki_3__ip2p1.png,ref_azuki_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_azuki_3__ip2p2.png,ref_azuki_3.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_4__ip2p0.png,ref_azuki_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_4__ip2p1.png,ref_azuki_4.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_azuki_4__ip2p2.png,ref_azuki_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_5__ip2p0.png,ref_azuki_5.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_azuki_5__ip2p1.png,ref_azuki_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_azuki_5__ip2p2.png,ref_azuki_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_azuki_6__ip2p0.png,ref_azuki_6.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_azuki_6__ip2p1.png,ref_azuki_6.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_6__ip2p2.png,ref_azuki_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_7__ip2p0.png,ref_azuki_7.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_7__ip2p1.png,ref_azuki_7.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_7__ip2p2.png,ref_azuki_7.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_azuki_8__ip2p0.png,ref_azuki_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_azuki_8__ip2p1.png,ref_azuki_8.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_azuki_8__ip2p2.png,ref_azuki_8.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_azuki_9__ip2p0.png,ref_azuki_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_azuki_9__ip2p1.png,ref_azuki_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_azuki_9__ip2p2.png,ref_azuki_9.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_1__ip2p0.png,ref_bored_ape_yacht_club_1.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_1__ip2p1.png,ref_bored_ape_yacht_club_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_1__ip2p2.png,ref_bored_ape_yacht_club_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_bored_ape_yacht_club_10__ip2p0.png,ref_bored_ape_yacht_club_10.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_10__ip2p1.png,ref_bored_ape_yacht_club_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_10__ip2p2.png,ref_bored_ape_yacht_club_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_2__ip2p0.png,ref_bored_ape_yacht_club_2.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_bored_ape_yacht_club_2__ip2p1.png,ref_bored_ape_yacht_club_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_bored_ape_yacht_club_2__ip2p2.png,ref_bored_ape_yacht_club_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_3__ip2p0.png,ref_bored_ape_yacht_club_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_bored_ape_yacht_club_3__ip2p1.png,ref_bored_ape_yacht_club_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_3__ip2p2.png,ref_bored_ape_yacht_club_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_4__ip2p0.png,ref_bored_ape_yacht_club_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_bored_ape_yacht_club_4__ip2p1.png,ref_bored_ape_yacht_club_4.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_4__ip2p2.png,ref_bored_ape_yacht_club_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_bored_ape_yacht_club_5__ip2p0.png,ref_bored_ape_yacht_club_5.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_bored_ape_yacht_club_5__ip2p1.png,ref_bored_ape_yacht_club_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_bored_ape_yacht_club_5__ip2p2.png,ref_bored_ape_yacht_club_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_6__ip2p0.png,ref_bored_ape_yacht_club_6.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_bored_ape_yacht_club_6__ip2p1.png,ref_bored_ape_yacht_club_6.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_bored_ape_yacht_club_6__ip2p2.png,ref_bored_ape_yacht_club_6.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_7__ip2p0.png,ref_bored_ape_yacht_club_7.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_bored_ape_yacht_club_7__ip2p1.png,ref_bored_ape_yacht_club_7.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_bored_ape_yacht_club_7__ip2p2.png,ref_bored_ape_yacht_club_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_bored_ape_yacht_club_8__ip2p0.png,ref_bored_ape_yacht_club_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_bored_ape_yacht_club_8__ip2p1.png,ref_bored_ape_yacht_club_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_bored_ape_yacht_club_8__ip2p2.png,ref_bored_ape_yacht_club_8.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_9__ip2p0.png,ref_bored_ape_yacht_club_9.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_bored_ape_yacht_club_9__ip2p1.png,ref_bored_ape_yacht_club_9.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_bored_ape_yacht_club_9__ip2p2.png,ref_bored_ape_yacht_club_9.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_doodles_1__ip2p0.png,ref_doodles_1.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_doodles_1__ip2p1.png,ref_doodles_1.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_doodles_1__ip2p2.png,ref_doodles_1.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_doodles_10__ip2p0.png,ref_doodles_10.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_doodles_10__ip2p1.png,ref_doodles_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_doodles_10__ip2p2.png,ref_doodles_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_doodles_2__ip2p0.png,ref_doodles_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_doodles_2__ip2p1.png,ref_doodles_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_2__ip2p2.png,ref_doodles_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_doodles_3__ip2p0.png,ref_doodles_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_doodles_3__ip2p1.png,ref_doodles_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_3__ip2p2.png,ref_doodles_3.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_doodles_4__ip2p0.png,ref_doodles_4.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_doodles_4__ip2p1.png,ref_doodles_4.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_doodles_4__ip2p2.png,ref_doodles_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_doodles_5__ip2p0.png,ref_doodles_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_doodles_5__ip2p1.png,ref_doodles_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_5__ip2p2.png,ref_doodles_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_doodles_6__ip2p0.png,ref_doodles_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_doodles_6__ip2p1.png,ref_doodles_6.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_doodles_6__ip2p2.png,ref_doodles_6.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_doodles_7__ip2p0.png,ref_doodles_7.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_doodles_7__ip2p1.png,ref_doodles_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_doodles_7__ip2p2.png,ref_doodles_7.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_doodles_8__ip2p0.png,ref_doodles_8.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_doodles_8__ip2p1.png,ref_doodles_8.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_8__ip2p2.png,ref_doodles_8.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_doodles_9__ip2p0.png,ref_doodles_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_doodles_9__ip2p1.png,ref_doodles_9.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_doodles_9__ip2p2.png,ref_doodles_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_1__ip2p0.png,ref_loot_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_loot_1__ip2p1.png,ref_loot_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_loot_1__ip2p2.png,ref_loot_1.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_loot_10__ip2p0.png,ref_loot_10.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_loot_10__ip2p1.png,ref_loot_10.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_loot_10__ip2p2.png,ref_loot_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_loot_2__ip2p0.png,ref_loot_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_loot_2__ip2p1.png,ref_loot_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_2__ip2p2.png,ref_loot_2.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_3__ip2p0.png,ref_loot_3.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_loot_3__ip2p1.png,ref_loot_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_loot_3__ip2p2.png,ref_loot_3.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_loot_4__ip2p0.png,ref_loot_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_loot_4__ip2p1.png,ref_loot_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_4__ip2p2.png,ref_loot_4.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_loot_5__ip2p0.png,ref_loot_5.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_loot_5__ip2p1.png,ref_loot_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_5__ip2p2.png,ref_loot_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_loot_6__ip2p0.png,ref_loot_6.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_6__ip2p1.png,ref_loot_6.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_loot_6__ip2p2.png,ref_loot_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_loot_7__ip2p0.png,ref_loot_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_7__ip2p1.png,ref_loot_7.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_loot_7__ip2p2.png,ref_loot_7.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_loot_8__ip2p0.png,ref_loot_8.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_loot_8__ip2p1.png,ref_loot_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_8__ip2p2.png,ref_loot_8.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_loot_9__ip2p0.png,ref_loot_9.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_loot_9__ip2p1.png,ref_loot_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_loot_9__ip2p2.png,ref_loot_9.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_meebits_1__ip2p0.png,ref_meebits_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_meebits_1__ip2p1.png,ref_meebits_1.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_meebits_1__ip2p2.png,ref_meebits_1.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_meebits_2__ip2p0.png,ref_meebits_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_meebits_2__ip2p1.png,ref_meebits_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_meebits_2__ip2p2.png,ref_meebits_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_meebits_3__ip2p0.png,ref_meebits_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_meebits_3__ip2p1.png,ref_meebits_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_meebits_3__ip2p2.png,ref_meebits_3.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_meebits_4__ip2p0.png,ref_meebits_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_meebits_4__ip2p1.png,ref_meebits_4.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_meebits_4__ip2p2.png,ref_meebits_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_meebits_5__ip2p0.png,ref_meebits_5.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_meebits_5__ip2p1.png,ref_meebits_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_meebits_5__ip2p2.png,ref_meebits_5.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_moonbirds_1__ip2p0.png,ref_moonbirds_1.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_moonbirds_1__ip2p1.png,ref_moonbirds_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_moonbirds_1__ip2p2.png,ref_moonbirds_1.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_moonbirds_10__ip2p0.png,ref_moonbirds_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_moonbirds_10__ip2p1.png,ref_moonbirds_10.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_moonbirds_10__ip2p2.png,ref_moonbirds_10.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_2__ip2p0.png,ref_moonbirds_2.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_moonbirds_2__ip2p1.png,ref_moonbirds_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_moonbirds_2__ip2p2.png,ref_moonbirds_2.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_3__ip2p0.png,ref_moonbirds_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_moonbirds_3__ip2p1.png,ref_moonbirds_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_moonbirds_3__ip2p2.png,ref_moonbirds_3.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_4__ip2p0.png,ref_moonbirds_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_4__ip2p1.png,ref_moonbirds_4.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_moonbirds_4__ip2p2.png,ref_moonbirds_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_moonbirds_5__ip2p0.png,ref_moonbirds_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_moonbirds_5__ip2p1.png,ref_moonbirds_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_moonbirds_5__ip2p2.png,ref_moonbirds_5.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_moonbirds_6__ip2p0.png,ref_moonbirds_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_moonbirds_6__ip2p1.png,ref_moonbirds_6.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_moonbirds_6__ip2p2.png,ref_moonbirds_6.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_moonbirds_7__ip2p0.png,ref_moonbirds_7.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_moonbirds_7__ip2p1.png,ref_moonbirds_7.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_moonbirds_7__ip2p2.png,ref_moonbirds_7.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_moonbirds_8__ip2p0.png,ref_moonbirds_8.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_moonbirds_8__ip2p1.png,ref_moonbirds_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_moonbirds_8__ip2p2.png,ref_moonbirds_8.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_moonbirds_9__ip2p0.png,ref_moonbirds_9.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_moonbirds_9__ip2p1.png,ref_moonbirds_9.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_moonbirds_9__ip2p2.png,ref_moonbirds_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_nouns_1__ip2p0.png,ref_nouns_1.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_nouns_1__ip2p1.png,ref_nouns_1.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_nouns_1__ip2p2.png,ref_nouns_1.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_nouns_10__ip2p0.png,ref_nouns_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_nouns_10__ip2p1.png,ref_nouns_10.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_nouns_10__ip2p2.png,ref_nouns_10.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_2__ip2p0.png,ref_nouns_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_nouns_2__ip2p1.png,ref_nouns_2.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_2__ip2p2.png,ref_nouns_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_3__ip2p0.png,ref_nouns_3.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_3__ip2p1.png,ref_nouns_3.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_nouns_3__ip2p2.png,ref_nouns_3.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_4__ip2p0.png,ref_nouns_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_nouns_4__ip2p1.png,ref_nouns_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_nouns_4__ip2p2.png,ref_nouns_4.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_nouns_5__ip2p0.png,ref_nouns_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_nouns_5__ip2p1.png,ref_nouns_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_5__ip2p2.png,ref_nouns_5.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_6__ip2p0.png,ref_nouns_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_nouns_6__ip2p1.png,ref_nouns_6.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_6__ip2p2.png,ref_nouns_6.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_nouns_7__ip2p0.png,ref_nouns_7.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_7__ip2p1.png,ref_nouns_7.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_nouns_7__ip2p2.png,ref_nouns_7.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_nouns_8__ip2p0.png,ref_nouns_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_nouns_8__ip2p1.png,ref_nouns_8.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_nouns_8__ip2p2.png,ref_nouns_8.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_9__ip2p0.png,ref_nouns_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_nouns_9__ip2p1.png,ref_nouns_9.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_nouns_9__ip2p2.png,ref_nouns_9.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_pudgy_penguins_1__ip2p0.png,ref_pudgy_penguins_1.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_pudgy_penguins_1__ip2p1.png,ref_pudgy_penguins_1.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_pudgy_penguins_1__ip2p2.png,ref_pudgy_penguins_1.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_pudgy_penguins_2__ip2p0.png,ref_pudgy_penguins_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_pudgy_penguins_2__ip2p1.png,ref_pudgy_penguins_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_pudgy_penguins_2__ip2p2.png,ref_pudgy_penguins_2.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_pudgy_penguins_3__ip2p0.png,ref_pudgy_penguins_3.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_pudgy_penguins_3__ip2p1.png,ref_pudgy_penguins_3.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_pudgy_penguins_3__ip2p2.png,ref_pudgy_penguins_3.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_pudgy_penguins_4__ip2p0.png,ref_pudgy_penguins_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_pudgy_penguins_4__ip2p1.png,ref_pudgy_penguins_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_pudgy_penguins_4__ip2p2.png,ref_pudgy_penguins_4.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_pudgy_penguins_5__ip2p0.png,ref_pudgy_penguins_5.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_pudgy_penguins_5__ip2p1.png,ref_pudgy_penguins_5.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_pudgy_penguins_5__ip2p2.png,ref_pudgy_penguins_5.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_world_of_women_1__ip2p0.png,ref_world_of_women_1.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_world_of_women_1__ip2p1.png,ref_world_of_women_1.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_world_of_women_1__ip2p2.png,ref_world_of_women_1.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_10__ip2p0.png,ref_world_of_women_10.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_world_of_women_10__ip2p1.png,ref_world_of_women_10.png,instruct_pix2pix,generative,duplicate,make it look like a 3D render
+ref_world_of_women_10__ip2p2.png,ref_world_of_women_10.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_2__ip2p0.png,ref_world_of_women_2.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_2__ip2p1.png,ref_world_of_women_2.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_world_of_women_2__ip2p2.png,ref_world_of_women_2.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_world_of_women_3__ip2p0.png,ref_world_of_women_3.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_world_of_women_3__ip2p1.png,ref_world_of_women_3.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_world_of_women_3__ip2p2.png,ref_world_of_women_3.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_4__ip2p0.png,ref_world_of_women_4.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_world_of_women_4__ip2p1.png,ref_world_of_women_4.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_world_of_women_4__ip2p2.png,ref_world_of_women_4.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_world_of_women_5__ip2p0.png,ref_world_of_women_5.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_world_of_women_5__ip2p1.png,ref_world_of_women_5.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_5__ip2p2.png,ref_world_of_women_5.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_world_of_women_6__ip2p0.png,ref_world_of_women_6.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_world_of_women_6__ip2p1.png,ref_world_of_women_6.png,instruct_pix2pix,generative,duplicate,make it winter with snow
+ref_world_of_women_6__ip2p2.png,ref_world_of_women_6.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_7__ip2p0.png,ref_world_of_women_7.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_world_of_women_7__ip2p1.png,ref_world_of_women_7.png,instruct_pix2pix,generative,duplicate,add sunglasses
+ref_world_of_women_7__ip2p2.png,ref_world_of_women_7.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_8__ip2p0.png,ref_world_of_women_8.png,instruct_pix2pix,generative,duplicate,turn it into pixel art
+ref_world_of_women_8__ip2p1.png,ref_world_of_women_8.png,instruct_pix2pix,generative,duplicate,turn it into a pencil sketch
+ref_world_of_women_8__ip2p2.png,ref_world_of_women_8.png,instruct_pix2pix,generative,duplicate,make it a watercolor painting
+ref_world_of_women_9__ip2p0.png,ref_world_of_women_9.png,instruct_pix2pix,generative,duplicate,change the background to a sunset
+ref_world_of_women_9__ip2p1.png,ref_world_of_women_9.png,instruct_pix2pix,generative,duplicate,make it look like an oil painting
+ref_world_of_women_9__ip2p2.png,ref_world_of_women_9.png,instruct_pix2pix,generative,duplicate,turn it into pixel art

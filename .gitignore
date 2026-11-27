@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+venv/
+models_cache/
+results/figures/
+results/plots/
+paper/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.svg
+*.pdf
+*.ipynb
